@@ -6,7 +6,7 @@
 		<base href="" />
 	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 	<meta name="generator" content="Joomla! - Open Source Content Management" />
-	<title>Friedhof</title>
+	<title>Andere Leistungen</title>
 	<link href="../images/LOGO2.png" rel="shortcut icon" type="image/vnd.microsoft.icon" />
 	<link href="../templates/shaper_helix3/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
 	<link href="../templates/shaper_helix3/css/joomla-fontawesome.min.css" rel="stylesheet" type="text/css" />
@@ -182,13 +182,13 @@ jQuery(document).ready(function($) {
 	});
 	
 	</script>
-	<meta property="og:url" content="https://polischuk-bestattungen.de/de/friedhof.html" />
+	<meta property="og:url" content="https://polischuk-bestattungen.de/de/andere-leistungen.html" />
 	<meta property="og:type" content="article" />
-	<meta property="og:title" content="Friedhof" />
-	<meta property="og:description" content="Grabpflege Sollten Sie aufgrund einer Krankheit oder ständigen Abwesenheit verhindert sein, sich um die Pflege des Grabes zu kümmern, bietet Ihnen Polischu..." />
+	<meta property="og:title" content="Andere Leistungen" />
+	<meta property="og:description" content="Kühlraum Polischuk-Bestattungen bietet einen eigenen Kühlraum, wo die verstorbene Person bis zur Beisetzung oder Überführung – ohne zusätzliche Kosten - ve..." />
 			</head>
 	
-	<body class="site com-content view-article no-layout no-task itemid-135 de-de ltr  sticky-header layout-boxed off-canvas-menu-init">
+	<body class="site com-content view-article no-layout no-task itemid-136 de-de ltr  sticky-header layout-boxed off-canvas-menu-init">
 	
 		<div class="body-wrapper">
 			<div class="body-innerwrapper">
@@ -210,8 +210,8 @@ jQuery(document).ready(function($) {
 </table>
 </div></div>
 </div></div></div></div></div></div></section><header id="sp-header"><div class="container"><div class="row"><div id="sp-logo" class="col-10 col-lg-3 "><div class="sp-column "><div class="logo"><a href="../index.html"><img class="sp-default-logo d-none d-lg-block" src="../images/LOGO.png" srcset="" alt="bestattungen"><!-- telefone here --></a></div></div></div><div id="sp-menu" class="col-lg-9 "><div class="sp-column ">			<div class='sp-megamenu-wrapper'>
-				<a id="offcanvas-toggler" class="d-block d-lg-none" aria-label="Helix3 Megamenu Options" href="friedhof.html#"><i class="fa fa-bars" aria-hidden="true" title="Helix3 Megamenu Options"></i></a>
-				<ul class="sp-megamenu-parent menu-fade d-none d-lg-block"><li class="sp-menu-item"><a  href="index.html"  >Startseite</a></li><li class="sp-menu-item"><a  href="bestattung.html"  >Bestattung</a></li><li class="sp-menu-item"><a  href="ueberfuehrung.html"  >Überführung</a></li><li class="sp-menu-item current-item active"><a  href="friedhof.html"  >Friedhof</a></li><li class="sp-menu-item"><a  href="andere-leistungen.html"  >Andere Leistungen</a></li><li class="sp-menu-item"><a  href="kontakt.html"  >Kontakt/ Impressum</a></li></ul>			</div>
+				<a id="offcanvas-toggler" class="d-block d-lg-none" aria-label="Helix3 Megamenu Options" href="andere-leistungen.html#"><i class="fa fa-bars" aria-hidden="true" title="Helix3 Megamenu Options"></i></a>
+				<ul class="sp-megamenu-parent menu-fade d-none d-lg-block"><li class="sp-menu-item"><a  href="index.html"  >Startseite</a></li><li class="sp-menu-item"><a  href="bestattung.html"  >Bestattung</a></li><li class="sp-menu-item"><a  href="ueberfuehrung.html"  >Überführung</a></li><li class="sp-menu-item"><a  href="friedhof.html"  >Friedhof</a></li><li class="sp-menu-item current-item active"><a  href="andere-leistungen.html"  >Andere Leistungen</a></li><li class="sp-menu-item"><a  href="kontakt.html"  >Kontakt/ Impressum</a></li></ul>			</div>
 		</div></div></div></div></header><section id="sp-page-title"><div class="container"><div class="row"><div id="sp-title" class="col-lg-12 d-none d-md-block"><div class="sp-column "><div class="sp-module "><div class="sp-module-content">
 <div class="flexslider">
   <ul class="slides">
@@ -224,16 +224,9 @@ jQuery(document).ready(function($) {
         animation: "fade",     	  directionNav: false,     	  controlNav:false,     	  keyboardNav:false,         direction: "horizontal",        slideshowSpeed:9000,       animationSpeed:1000,        randomize: false     });
   });
 </script>
-</div></div></div></div></div></div></section><section id="sp-top-bar"><div class="container"><div class="row"><div id="sp-top2" class="col-lg-9 d-none d-md-block"><div class="sp-column "><ul class="sp-contact-info"><li class="sp-contact-phone"><i class="fa fa-phone" aria-hidden="true"></i> <a href="tel:24/7ServiceTel.:03091900781Mobil:017663155400">24/7 Service Tel.: 030 919 00 781  Mobil: 0176 631 55 400</a></li><li class="sp-contact-email"><i class="fa fa-envelope" aria-hidden="true"></i> <a href="mailto:info@polischuk-bestattungen.de">info@polischuk-bestattungen.de</a></li></ul><ul class="social-icons"><li><a target="_blank" href="friedhof.html#" aria-label="facebook"><i class="fa fa-facebook"></i></a></li><li><a target="_blank" href="friedhof.html#" aria-label="twitter"><i class="fa fa-twitter"></i></a></li><li><a target="_blank" href="friedhof.html#" aria-label="linkedin"><i class="fa fa-linkedin"></i></a></li><li><a target="_blank" href="friedhof.html#" aria-label="flickr"><i class="fa fa-flickr"></i></a></li><li><a href="skype:#?chat" aria-label="skype"><i class="fa fa-skype"></i></a></li></ul></div></div><div id="sp-top1" class="col-lg-3 d-none d-md-block"><div class="sp-column "><div class="sp-module "><div class="sp-module-content"><div class="mod-languages">
+</div></div></div></div></div></div></section><section id="sp-top-bar"><div class="container"><div class="row"><div id="sp-top2" class="col-lg-9 d-none d-md-block"><div class="sp-column "><ul class="sp-contact-info"><li class="sp-contact-phone"><i class="fa fa-phone" aria-hidden="true"></i> <a href="tel:24/7ServiceTel.:03091900781Mobil:017663155400">24/7 Service Tel.: 030 919 00 781  Mobil: 0176 631 55 400</a></li><li class="sp-contact-email"><i class="fa fa-envelope" aria-hidden="true"></i> <a href="mailto:info@polischuk-bestattungen.de">info@polischuk-bestattungen.de</a></li></ul><ul class="social-icons"><li><a target="_blank" href="andere-leistungen.html#" aria-label="facebook"><i class="fa fa-facebook"></i></a></li><li><a target="_blank" href="andere-leistungen.html#" aria-label="twitter"><i class="fa fa-twitter"></i></a></li><li><a target="_blank" href="andere-leistungen.html#" aria-label="linkedin"><i class="fa fa-linkedin"></i></a></li><li><a target="_blank" href="andere-leistungen.html#" aria-label="flickr"><i class="fa fa-flickr"></i></a></li><li><a href="skype:#?chat" aria-label="skype"><i class="fa fa-skype"></i></a></li></ul></div></div><div id="sp-top1" class="col-lg-3 d-none d-md-block"><div class="sp-column "><div class="sp-module "><div class="sp-module-content"><div class="mod-languages">
 
-	<form name="lang" method="post" action="friedhof.html">
-		<select class="inputbox advancedSelect" onchange="document.location.replace(this.value);" >
-			<option dir="ltr" value="https://pilyav4ik.github.io/polischuk/">
-		Russian</option>
-			<option dir="ltr" value="https://pilyav4ik.github.io/polischuk/de" selected="selected">
-		German</option>
-		</select>
-	</form>
+<?php include("lang.php") ?>
 
 </div>
 </div></div></div></div></div></div></section><section id="sp-main"><div class="container"><div class="row"><div id="sp-component" class="col-lg-12 "><div class="sp-column "><div id="system-message-container">
@@ -254,28 +247,23 @@ jQuery(document).ready(function($) {
 				
 	
 			<div itemprop="articleBody">
-		<div><span style="font-family: arial,helvetica,sans-serif; font-size: 12pt;"><span style="text-decoration: underline;"><span style="color: #006652; text-decoration: underline;">Grabpflege<img src="https://polischuk-bestattungen.de/images/uhod_za_mogila-Friedhof_bestattungen.jpg" alt="uhod za mogila Friedhof bestattungen" width="300" height="201" style="margin-right: 0px; margin-bottom: 10px; margin-left: 15px; float: right;" /><br style="clear: left;" /></span></span>Sollten Sie aufgrund einer Krankheit oder ständigen Abwesenheit verhindert sein, sich um die Pflege des Grabes zu kümmern, bietet Ihnen Polischuk-Bestattungen die Vermittlung zu einer Grabpflege – Service an. In unserem Büro können Sie sich beraten lassen und Ihre individuellen Wünsche oder Vorstellungen zu der Grabpflege äußern. Für weitere Fragen sprechen Sie uns an!<em> </em></span></div>
-<div><span style="font-family: arial,helvetica,sans-serif; font-size: 12pt;"></span></div>
-<div><span style="font-family: arial,helvetica,sans-serif; font-size: 12pt;"><strong><em>&nbsp;</em></strong></span></div>
-<div><span style="font-family: arial,helvetica,sans-serif; font-size: 12pt;"></span></div>
-<div><span style="font-family: arial,helvetica,sans-serif; font-size: 12pt;"></span></div>
-<div>&nbsp;</div>
-<div><span style="font-family: arial,helvetica,sans-serif; font-size: 12pt;"><span style="text-decoration: underline;"><span style="color: #2bb673;"><a href="../index.php/de/11-de/31-grabsteine.html" style="color: #2bb673; background-color: transparent;"><span style="color: #006652; text-decoration: underline;"><img src="../images/pametniki.jpg" alt="pametniki" width="300" height="259" style="margin-right: 15px; margin-bottom: 10px; margin-left: 0px; float: left;" /></span></a><span style="color: #006652; text-decoration: underline;">Grabsteine</span><a href="../index.php/de/11-de/31-grabsteine.html" style="color: #2bb673; background-color: transparent;"><span style="color: #006652; text-decoration: underline;"><br style="clear: right;" /></span></a></span></span><span style="color: #212121;"><span lang="de-DE">Wir helfen Ihnen einen Grabstein nach Ihren individuellen Wünschen und Möglichkeiten zu bestellen. Wir arbeiten mit vielen </span></span><span style="color: #212121;"><span lang="de-DE">Grabmetzen, die Grabsteine nach ihren bestimmten Wünschen herstellen und/oder Sie beraten.&nbsp;</span></span><span style="color: #212121;">Sollten Sie Interesse an Grabsteine haben, so können Sie sich an unser Büro wenden, dass Ihnen gerne weiter hilft.</span><span style="color: #212121;"><span lang="de-DE"></span></span></span></div>
-<div><span style="font-family: arial,helvetica,sans-serif; font-size: 12pt;"></span></div>
-<div><span style="font-family: arial,helvetica,sans-serif; font-size: 12pt;"></span></div>
-<div><span style="font-family: arial,helvetica,sans-serif; font-size: 12pt;"></span></div>
-<div><span style="font-family: arial,helvetica,sans-serif; font-size: 12pt;"></span></div>
-<div><span style="font-family: arial,helvetica,sans-serif; font-size: 12pt;"></span></div>
-<div><span style="color: #212121; font-family: arial,helvetica,sans-serif; font-size: 12pt;"><strong><em>&nbsp;</em></strong></span></div>
-<div><span style="font-size: 12pt; font-family: arial,helvetica,sans-serif;"><em>&nbsp;</em></span></div>
+		<div><span style="text-decoration: underline; color: #006652; font-size: 12pt;">Kühlraum<img src="https://polischuk-bestattungen.de/images/uslugi_morga_K%C3%83%C2%BChlraum.jpg" alt="uslugi morga Kühlraum" width="301" height="201" style="margin-right: 10px; margin-bottom: 10px; margin-left: 10px; float: right;" /><br style="clear: left;" /></span></div>
+<div><span style="font-size: 12pt; font-family: arial,helvetica,sans-serif;">Polischuk-Bestattungen bietet einen eigenen Kühlraum, wo die verstorbene Person bis zur Beisetzung oder Überführung – ohne zusätzliche Kosten - verbleiben kann.Auf Wunsch wird der Verstorbene gewaschen, angezogen und kosmetisch behandelt.Lieblingsgegenstände der verstorbenen Personen können auf Wunsch in den Sarg mit gelegt werden.</span></div>
 <div>&nbsp;</div>
 <div>&nbsp;</div>
+<div><span style="text-decoration: underline; color: #006652;"><span style="font-size: 12pt;"><img src="../images/pomniki-crkovnie_rituali_Gedenkfeier_.jpg" alt="pomniki crkovnie rituali Gedenkfeier " width="300" height="200" style="margin-right: 15px; margin-bottom: 10px; margin-left: 0px; float: left;" />Gedenkfeier </span></span></div>
+<div><span style="font-size: 12pt; font-family: arial,helvetica,sans-serif;">Verstirbt ein geliebter Mensch, ist es für die verbliebenen Angehörigen und Freunden eine sehr schwierige Situation. In dieser Zeit ist es wichtig einen Ort zu haben, wo die Hinterbliebenen in Ruhe Abschied nehmen und der verstorbenen Person gedenken können. Polischuk-Bestattungen organisiert für Sie eine Gedenkfeier, ganz nach Ihren individuellen Wünschen. Polischuk-Bestattungen berät Sie zu den Gedenkfeiern und steht Ihnen jederzeit zur Verfügung. Das Büro ist rund um die Uhr erreichbar.</span></div>
 <div>&nbsp;</div>
+<div><span style="text-decoration: underline; color: #006652;"><span style="font-size: 12pt;">Kirchliche Zeremonie<img src="../images/cerkovnaia_ceremonia_Kirchliche_Zeremonie_bestattung.jpg" alt="cerkovnaia ceremonia Kirchliche Zeremonie bestattung" width="300" height="200" style="margin-right: 10px; margin-bottom: 10px; margin-left: 10px; float: right;" /></span></span><span style="font-size: 12pt; font-family: arial,helvetica,sans-serif;"></span></div>
+<div><span style="font-size: 12pt; font-family: arial,helvetica,sans-serif;">Polischuk-Bestattungen ist es wichtig, dem Verstorbenen auf seinem letzten Weg bestmöglich zu begleiten, um sicher zu stellen, dass bei dem Abschiednehmen sein Glaube und seine Überzeugung gänzlich respektiert werden. Polischuk-Bestattungen hat sich darauf fokussiert, dass am Ende des Weges die Abwicklung des Trauerfalles den Wünschen der Hinterbliebenen entsprechend würdevoll durchgeführt wird.&nbsp;</span><span style="font-size: 10pt; font-family: arial, helvetica, sans-serif;"><em></em></span><span style="font-family: arial, helvetica, sans-serif;"><span style="font-size: 13.3333px;"><em></em></span></span><span style="font-size: 12pt; font-family: arial,helvetica,sans-serif;">Polischuk-Bestattungen unterstützt die Familienangehörigen bei der Organisation und der Durchführung von kirchlichen Zeremonien</span></div>
+<div><span style="font-size: 12pt; font-family: arial,helvetica,sans-serif;">(orthodox, evangelisch, katholisch).</span></div>
 <div>&nbsp;</div>
-<div><span style="font-family: arial,helvetica,sans-serif; font-size: 12pt;"><span style="text-decoration: underline;"><span style="color: #2bb673;"><span style="color: #006652; text-decoration: underline;">Bestattung-Zubehör</span><a href="../index.php/de/11-de/33-bestattung-zubehoer.html" style="color: #2bb673; background-color: transparent;"><span style="color: #006652; text-decoration: underline;"><img src="https://polischuk-bestattungen.de/images/Zubeh%C3%83%C2%B6r_f%C3%83%C2%BCr_Beisetzungen_pohornie_prinadlejnosti.jpg" alt="Zubehör für Beisetzungen pohornie prinadlejnosti" width="300" height="200" style="margin-right: 0px; margin-bottom: 10px; margin-left: 15px; float: right;" /><br style="clear: left;" /></span></a></span></span>Polischuk-Bestattungen bietet eine große Auswahl an Zubehör für Beisetzungen. Dazu gehören u.a. Särge (drapiert und aus Naturholz), Urnen, Sargdecken, Bänder, Kerzen, Blumen und Kränze. Das Zubehör kann komplett über das Büro bestellt werden. Polischuk-Bestattungen bietet Ihnen ein würdiges Abschiednehmen von Ihren verstorbenen Liebsten und steht Ihnen mit Rat und Tat zur Seite.<span style="color: #2bb673;"><a href="../index.php/de/11-de/33-bestattung-zubehoer.html" style="color: #2bb673; background-color: transparent;"><span style="color: #006652;"></span></a></span></span></div>
+<div><span style="text-decoration: underline; color: #006652;"><span style="font-size: 12pt;"><img src="../images/musulmanskie_obriad.jpg" alt="musulmanskie obriad" width="300" height="199" style="margin-right: 15px; margin-bottom: 10px; margin-left: 0px; float: left;" />Muslimische Bestattung </span></span></div>
+<div><span style="font-size: 12pt; font-family: arial,helvetica,sans-serif;">Besteht der Wunsch nach einem</span></div>
+<div><span style="font-size: 12pt; font-family: arial,helvetica,sans-serif;">muslimischen Begräbnis, kann Polischuk – Bestattungen in kürzester Zeit, eine traditionelle muslimische Bestattung organisieren. Um eine rasche Beisetzung oder Überführung zu gewährleisten, wird um ein schnelles Handeln gebeten, damit dementsprechend eine schnelle Beisetzung oder Überführung nach islamischen Ritus erfolgen kann. Mit unseren modernen Bestattungswagen sind unsere mobilen Bestattungsberater deutschlandweit für Sie unterwegs<span lang="de-DE"> und ermöglichen eine Abholung</span> in kürzester Zeit<span lang="de-DE">.&nbsp;</span>Auch Leistungen wie bspw. das Abschiednehmen, die Waschung, das Einhüllen in Leinen, der Sarg und das rituelle Totengebet wird von Polischuk-Bestattungen organisiert. Sie beauftragen Polischuk-Bestattungen mit einer Vollmacht, sich um die Beisetzung oder Überführung der verstorbenen Person zu kümmern. Bürokratische Formalitäten mit der Botschaft, dem Konsulat und den deutschen Behörden werden ebenfalls von Polischuk-Bestattungen erledigt.<span lang="de-DE">In vielen deutschen Städten gibt es mittlerweile islamische Grabfelder auf Friedhöfen, so dass eine Beerdigung auch in Deutschland nach muslimischen Anforderungen unproblematisch umzusetzen ist. Die verstorbene Person wird in Richtung Mekka gebettet und auch eine Zeremonie mit den Trauergästen auf dem Friedhof ist erlaubt. Bei der Beisetzung in Deutschland haben Sie zudem die Möglichkeit einen islamischen Grabstein über Polischuk-Bestattung zu ordern</span><span lang="de-DE">.</span></span></div>
 <div>&nbsp;</div>
-<div><span style="font-size: 10pt; font-family: arial, helvetica, sans-serif;"><em>&nbsp;</em></span></div>
-<div>&nbsp;</div>	</div>
+<div><span style="text-decoration: underline; color: #006652; font-size: 12pt;">Kosten<img src="../images/rufoto/geld-dengi-money.jpg" alt="geld dengi money" width="300" height="200" style="margin-right: 10px; margin-bottom: 10px; margin-left: 10px; float: right;" /></span><span style="font-size: 12pt;"><span style="font-family: arial,helvetica,sans-serif;"> </span></span></div>
+<div><span style="font-size: 12pt;"><span style="font-family: arial,helvetica,sans-serif;">I</span><span style="font-family: arial,helvetica,sans-serif;">n Deutschland besteht die gesetzliche Pflicht die Beisetzung eines verstorbenen Familienangehörigen zu organisieren und zu bezahlen. Für viele Verbliebenen kommt der Tod eines Angehörigen oft plötzlich. Sie werden dann mit der Organisation, Durchführung und den Kosten der Beisetzung konfrontiert. Um die Verbliebenen in solchen Fällen nicht zusätzlich mit den Kosten zu belasten, bietet Polischuk-Bestattungen eine <span style="color: #006652;"><a href="11-de/51-sterbegeld.html" style="color: #006652;">«Sterbe - Geld - Vorsorge»</a></span> an. Sprechen Sie uns an!</span></span></div>	</div>
 
 	
 	
@@ -324,10 +312,10 @@ jQuery(document).ready(function($) {
 		
 		<!-- Off Canvas Menu -->
 		<div class="offcanvas-menu">
-			<a href="friedhof.html#" class="close-offcanvas" aria-label="Close"><i class="fa fa-remove" aria-hidden="true" title="Close"></i></a>
+			<a href="andere-leistungen.html#" class="close-offcanvas" aria-label="Close"><i class="fa fa-remove" aria-hidden="true" title="Close"></i></a>
 			<div class="offcanvas-inner">
 									<div class="sp-module "><div class="sp-module-content"><ul class="nav menu">
-<li class="item-132"><a href="index.html" > Startseite</a></li><li class="item-133"><a href="bestattung.html" > Bestattung</a></li><li class="item-134"><a href="ueberfuehrung.html" > Überführung</a></li><li class="item-135  current active"><a href="friedhof.html" > Friedhof</a></li><li class="item-136"><a href="andere-leistungen.html" > Andere Leistungen</a></li><li class="item-137"><a href="kontakt.html" > Kontakt/ Impressum</a></li></ul>
+<li class="item-132"><a href="index.html" > Startseite</a></li><li class="item-133"><a href="bestattung.html" > Bestattung</a></li><li class="item-134"><a href="ueberfuehrung.html" > Überführung</a></li><li class="item-135"><a href="friedhof.html" > Friedhof</a></li><li class="item-136  current active"><a href="andere-leistungen.html" > Andere Leistungen</a></li><li class="item-137"><a href="kontakt.html" > Kontakt/ Impressum</a></li></ul>
 </div></div>
 							</div>
 		</div>
@@ -349,12 +337,12 @@ jQuery(document).ready(function($) {
 				
 				<div  class="cc-buttons">
 					
-							<a role="button" href="friedhof.html#" onclick="return false;"  class="btn cb-enable">
+							<a role="button" href="andere-leistungen.html#" onclick="return false;"  class="btn cb-enable">
 
 			Ich stimme zu.			
 </a>
 
-							<a role="button" href="friedhof.html#" onclick="return false;"  class="btn cb-disable">
+							<a role="button" href="andere-leistungen.html#" onclick="return false;"  class="btn cb-disable">
 
 			Ich lehne ab			
 </a>
@@ -364,7 +352,7 @@ jQuery(document).ready(function($) {
 			Datenschutz Richtlinien			
 </a>
 
-							<a role="button" href="friedhof.html#" onclick="return false;"  class="btn cb-controls cc_popup_open">
+							<a role="button" href="andere-leistungen.html#" onclick="return false;"  class="btn cb-controls cc_popup_open">
 				
 			<span>Datenschutz Einstellungen</span>
 			<b class="icon-cogs"></b>
@@ -378,7 +366,7 @@ jQuery(document).ready(function($) {
 
 
 <div id="cc_popup_cooco_modalwrap" class="cooco_popup_wrapper" >
-									<form id="cc_popup_form" class="cooco-form" action="friedhof.html" method="POST">
+									<form id="cc_popup_form" class="cooco-form" action="andere-leistungen.html" method="POST">
 												<div id="cc_popup" tabindex="-1" class="modal hide fade jviewport-width30" data-backdrop="true">
 	<div class="modal-header">
 			<button

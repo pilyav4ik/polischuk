@@ -8,12 +8,12 @@
 	<meta name="generator" content="Joomla! - Open Source Content Management" />
 	<title>Контакты</title>
 	<link href="../images/LOGO2.png" rel="shortcut icon" type="image/vnd.microsoft.icon" />
-	<link href="../templates/shaper_helix3/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
-	<link href="../templates/shaper_helix3/css/joomla-fontawesome.min.css" rel="stylesheet" type="text/css" />
-	<link href="../templates/shaper_helix3/css/font-awesome-v4-shims.min.css" rel="stylesheet" type="text/css" />
-	<link href="../templates/shaper_helix3/css/template.css" rel="stylesheet" type="text/css" />
-	<link href="../templates/shaper_helix3/css/presets/preset3.css" rel="stylesheet" class="preset" type="text/css" />
-	<link href="../templates/shaper_helix3/css/frontend-edit.css" rel="stylesheet" type="text/css" />
+	<link href="../../templates/shaper_helix3/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+	<link href="../../templates/shaper_helix3/css/joomla-fontawesome.min.css" rel="stylesheet" type="text/css" />
+	<link href="../../templates/shaper_helix3/css/font-awesome-v4-shims.min.css" rel="stylesheet" type="text/css" />
+	<link href="../../templates/shaper_helix3/css/template.css" rel="stylesheet" type="text/css" />
+	<link href="../../templates/shaper_helix3/css/presets/preset3.css" rel="stylesheet" class="preset" type="text/css" />
+	<link href="../../templates/shaper_helix3/css/frontend-edit.css" rel="stylesheet" type="text/css" />
 	<link href="https://polischuk-bestattungen.de/plugins/system/lab5_cookie_commander/cookie_commander/assets/jquery.cookiebar.css" rel="stylesheet" type="text/css" />
 	<link href="../media/jui/css/bootstrap-tooltip-extended.css@9bedf092946dd5dad411441e62a9e7c0.css" rel="stylesheet" type="text/css" />
 	<link href="../media/mod_languages/css/template.css@9bedf092946dd5dad411441e62a9e7c0.css" rel="stylesheet" type="text/css" />
@@ -65,10 +65,10 @@ max-width: 1140px;
 	<script src="../media/jui/js/jquery-noconflict.js@9bedf092946dd5dad411441e62a9e7c0" type="text/javascript"></script>
 	<script src="../media/jui/js/jquery-migrate.min.js@9bedf092946dd5dad411441e62a9e7c0" type="text/javascript"></script>
 	<script src="https://polischuk-bestattungen.de/plugins/system/helix3/assets/js/bootstrap.legacy.js" type="text/javascript"></script>
-	<script src="../templates/shaper_helix3/js/bootstrap.min.js" type="text/javascript"></script>
-	<script src="../templates/shaper_helix3/js/jquery.sticky.js" type="text/javascript"></script>
-	<script src="../templates/shaper_helix3/js/main.js" type="text/javascript"></script>
-	<script src="../templates/shaper_helix3/js/frontend-edit.js" type="text/javascript"></script>
+	<script src="../../templates/shaper_helix3/js/bootstrap.min.js" type="text/javascript"></script>
+	<script src="../../templates/shaper_helix3/js/jquery.sticky.js" type="text/javascript"></script>
+	<script src="../../templates/shaper_helix3/js/main.js" type="text/javascript"></script>
+	<script src="../../templates/shaper_helix3/js/frontend-edit.js" type="text/javascript"></script>
 	<script src="https://polischuk-bestattungen.de/plugins/system/lab5_cookie_commander/cookie_commander/assets/jquery.cookiebar.js" type="text/javascript"></script>
 	<script src="../media/jui/js/bootstrap-tooltip-extended.min.js@9bedf092946dd5dad411441e62a9e7c0" type="text/javascript"></script>
 	<script src="../media/jui/js/chosen.jquery.min.js@9bedf092946dd5dad411441e62a9e7c0" type="text/javascript"></script>
@@ -205,19 +205,10 @@ jQuery(document).ready(function($) {
 	
 		<div class="body-wrapper">
 			<div class="body-innerwrapper">
-				<header id="sp-header"><div class="container"><div class="row"><div id="sp-logo" class="col-5 col-md-5 col-lg-3 "><div class="sp-column "><div class="logo"><a href="../index.html"><img class="sp-default-logo d-none d-lg-block" src="../images/LOGO.png" srcset="" alt="bestattungen"><!-- telefone here --></a></div></div></div><div id="sp-menu" class="col-6 col-md-5 col-lg-9 "><div class="sp-column ">			<div class='sp-megamenu-wrapper'>
-				<a id="offcanvas-toggler" class="d-block d-lg-none" aria-label="Helix3 Megamenu Options" href="kontakty.html#"><i class="fa fa-bars" aria-hidden="true" title="Helix3 Megamenu Options"></i></a>
-				<ul class="sp-megamenu-parent menu-fade d-none d-lg-block"><li class="sp-menu-item"><a  href="../index.html"  >Главная</a></li><li class="sp-menu-item"><a  href="pokhorony.html"  >Похороны</a></li><li class="sp-menu-item"><a  href="perevozka.html"  >Перевозка</a></li><li class="sp-menu-item"><a  href="kladbishche.html"  >Кладбищe</a></li><li class="sp-menu-item"><a  href="drugoe.html"  >Другое</a></li><li class="sp-menu-item current-item active"><a  href="kontakty.html"  >Контакты</a></li></ul>			</div>
-		</div></div></div></div></header><section id="sp-page-title"><div class="container"><div class="row"><div id="sp-title" class="col-lg-12 d-none d-md-block"><div class="sp-column "></div></div></div></div></section><section id="sp-top-bar"><div class="container"><div class="row"><div id="sp-top2" class="col-lg-9 d-none d-md-block"><div class="sp-column "><ul class="sp-contact-info"><li class="sp-contact-phone"><i class="fa fa-phone" aria-hidden="true"></i> <a href="tel:03091900781">030 919 00 781</a></li><li class="sp-contact-mobile"><i class="fa fa-mobile" aria-hidden="true"></i> <a href="tel:017663155400">0176 631 55 400</a></li><li class="sp-contact-email"><i class="fa fa-envelope" aria-hidden="true"></i> <a href="mailto:info@polischuk-bestattungen.de">info@polischuk-bestattungen.de</a></li></ul><ul class="social-icons"><li><a target="_blank" href="kontakty.html#" aria-label="facebook"><i class="fa fa-facebook"></i></a></li><li><a target="_blank" href="kontakty.html#" aria-label="twitter"><i class="fa fa-twitter"></i></a></li><li><a target="_blank" href="kontakty.html#" aria-label="linkedin"><i class="fa fa-linkedin"></i></a></li><li><a target="_blank" href="kontakty.html#" aria-label="flickr"><i class="fa fa-flickr"></i></a></li><li><a href="skype:#?chat" aria-label="skype"><i class="fa fa-skype"></i></a></li></ul></div></div><div id="sp-top1" class="col-lg-3 d-none d-md-block"><div class="sp-column "><div class="sp-module "><div class="sp-module-content"><div class="mod-languages">
+			<?php include('menu.php'); ?>	
+			<section id="sp-page-title"><div class="container"><div class="row"><div id="sp-title" class="col-lg-12 d-none d-md-block"><div class="sp-column "></div></div></div></div></section><section id="sp-top-bar"><div class="container"><div class="row"><div id="sp-top2" class="col-lg-9 d-none d-md-block"><div class="sp-column "><ul class="sp-contact-info"><li class="sp-contact-phone"><i class="fa fa-phone" aria-hidden="true"></i> <a href="tel:03091900781">030 919 00 781</a></li><li class="sp-contact-mobile"><i class="fa fa-mobile" aria-hidden="true"></i> <a href="tel:017663155400">0176 631 55 400</a></li><li class="sp-contact-email"><i class="fa fa-envelope" aria-hidden="true"></i> <a href="mailto:info@polischuk-bestattungen.de">info@polischuk-bestattungen.de</a></li></ul><ul class="social-icons"><li><a target="_blank" href="kontakty.html#" aria-label="facebook"><i class="fa fa-facebook"></i></a></li><li><a target="_blank" href="kontakty.html#" aria-label="twitter"><i class="fa fa-twitter"></i></a></li><li><a target="_blank" href="kontakty.html#" aria-label="linkedin"><i class="fa fa-linkedin"></i></a></li><li><a target="_blank" href="kontakty.html#" aria-label="flickr"><i class="fa fa-flickr"></i></a></li><li><a href="skype:#?chat" aria-label="skype"><i class="fa fa-skype"></i></a></li></ul></div></div><div id="sp-top1" class="col-lg-3 d-none d-md-block"><div class="sp-column "><div class="sp-module "><div class="sp-module-content"><div class="mod-languages">
 
-	<form name="lang" method="post" action="kontakty.html">
-		<select class="inputbox advancedSelect" onchange="document.location.replace(this.value);" >
-			<option dir="ltr" value="https://pilyav4ik.github.io/polischuk/" selected="selected">
-		Russian</option>
-			<option dir="ltr" value="https://pilyav4ik.github.io/polischuk/de" >
-		German</option>
-		</select>
-	</form>
+			<?php include('lang.php'); ?>
 
 </div>
 </div></div></div></div></div></div></section><section id="sp-main"><div class="container"><div class="row"><div id="sp-component" class="col-lg-12 "><div class="sp-column "><div id="system-message-container">

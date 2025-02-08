@@ -7,14 +7,14 @@
 	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 	<meta name="description" content="030 919 00 781 Mobil: 0152 536 65 817 · info@polischuk-bestattungen.de. Выезд агента 24 часа в сутки. Оформление в инстанциях всех необходимых документов. Забота о предоставлении места на кладбищах Германии. Перевозка умерших домой, на родину, за границу, похороны, священник, православная и мусульманская традиция, панихида, морг, обряд, Доставка ритуальной продукции, перевозки усопших с оформлением документов в посольствах. Изготовление памятников и надгробных плит на заказ, фото, цены, каталог. Организация церковного обряда, конфессия." />
 	<meta name="generator" content="Joomla! - Open Source Content Management" />
-	<title>Кремация</title>
+	<title>Захоронение в море</title>
 	<link href="../../images/LOGO2.png" rel="shortcut icon" type="image/vnd.microsoft.icon" />
-	<link href="../../templates/shaper_helix3/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
-	<link href="../../templates/shaper_helix3/css/joomla-fontawesome.min.css" rel="stylesheet" type="text/css" />
-	<link href="../../templates/shaper_helix3/css/font-awesome-v4-shims.min.css" rel="stylesheet" type="text/css" />
-	<link href="../../templates/shaper_helix3/css/template.css" rel="stylesheet" type="text/css" />
-	<link href="../../templates/shaper_helix3/css/presets/preset3.css" rel="stylesheet" class="preset" type="text/css" />
-	<link href="../../templates/shaper_helix3/css/frontend-edit.css" rel="stylesheet" type="text/css" />
+	<link href="../../../templates/shaper_helix3/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+	<link href="../../../templates/shaper_helix3/css/joomla-fontawesome.min.css" rel="stylesheet" type="text/css" />
+	<link href="../../../templates/shaper_helix3/css/font-awesome-v4-shims.min.css" rel="stylesheet" type="text/css" />
+	<link href="../../../templates/shaper_helix3/css/template.css" rel="stylesheet" type="text/css" />
+	<link href="../../../templates/shaper_helix3/css/presets/preset3.css" rel="stylesheet" class="preset" type="text/css" />
+	<link href="../../../templates/shaper_helix3/css/frontend-edit.css" rel="stylesheet" type="text/css" />
 	<link href="https://polischuk-bestattungen.de/plugins/system/lab5_cookie_commander/cookie_commander/assets/jquery.cookiebar.css" rel="stylesheet" type="text/css" />
 	<link href="../../media/jui/css/bootstrap-tooltip-extended.css@9bedf092946dd5dad411441e62a9e7c0.css" rel="stylesheet" type="text/css" />
 	<link href="../../media/mod_languages/css/template.css@9bedf092946dd5dad411441e62a9e7c0.css" rel="stylesheet" type="text/css" />
@@ -28,11 +28,21 @@ justify-content: flex-end;
 
 #sp-user2{
 display: none !important;
-}@media (min-width: 1400px) {
+}
+@media (min-width: 1400px) {
 .container {
 max-width: 1140px;
 }
-}#sp-header{ background-color:#f5f5f5; }#sp-page-title{ padding:5px;margin:5px; }#sp-top-bar{ background-color:#ffffff;color:#999999;padding:5px;margin:5px; }#sp-top-bar a{color:#006652;}#sp-top-bar a:hover{color:#000000;}#sp-bottom{ background-color:#f5f5f5;color:#000000; }#sp-bottom a{color:#006652;}#sp-bottom a:hover{color:#000000;}#sp-footer{ background-color:#ffffff;color:#006652; }
+}
+#sp-header{ background-color:#f5f5f5; }
+#sp-page-title{ padding:5px;margin:5px; }
+#sp-top-bar{ background-color:#ffffff;color:#999999;padding:5px;margin:5px; }
+#sp-top-bar a{color:#006652;}
+#sp-top-bar a:hover{color:#000000;}
+#sp-bottom{ background-color:#f5f5f5;color:#000000; }
+#sp-bottom a{color:#006652;}
+#sp-bottom a:hover{color:#000000;}
+#sp-footer{ background-color:#ffffff;color:#006652; }
 												#cookie-bar.fixed {position:fixed; top:0; left:0; width:100%;}
 												#cookie-bar.fixed.bottom {bottom:0; top:auto;} 
  #cc_popup { background:#ffffff; } 
@@ -50,10 +60,10 @@ max-width: 1140px;
 
 											background:#ffffff;
 											padding:10px;
-											box-sizing: border-box;
-											width:100%;
-											margin:0 auto;
-							} 
+											box-sizin../templates/shaper_helix3
+											width:100../templates/shaper_helix3
+											margin:0 ../templates/shaper_helix3
+							} ../templates/shaper_helix3
 			
 	</style>
 	<script src="../../media/jui/js/jquery.min.js@9bedf092946dd5dad411441e62a9e7c0" type="text/javascript"></script>
@@ -75,7 +85,9 @@ var sp_preloader = '0';
 var sp_gotop = '0';
 
 var sp_offanimation = 'default';
- var $ = jQuery; jQuery(document).ready(function($) {
+
+ var $ = jQuery; 
+jQuery(document).ready(function($) {
    $('#cc_popup').on('show.bs.modal', function() {
        $('body').addClass('modal-open');
        $('.modalTooltip').each(function(){;
@@ -179,10 +191,10 @@ var sp_offanimation = 'default';
 	});
 	
 	</script>
-	<meta property="og:url" content="https://polischuk-bestattungen.de/ru/10-ru/8-2016-06-12-17-16-53.html" />
+	<meta property="og:url" content="https://polischuk-bestattungen.de/ru/10-ru/21-2016-06-12-17-51-42.html" />
 	<meta property="og:type" content="article" />
-	<meta property="og:title" content="Кремация" />
-	<meta property="og:description" content="Кремация Если Покойный пожелал, или по инициативе близких, можно провести процедуру кремации. Это подходит также, если есть желание подхоронить прах в уже..." />
+	<meta property="og:title" content="Захоронение в море" />
+	<meta property="og:description" content="Захоронение в море Развеивание пепла в море -это особый вид захоронения. Есть люди, которые не хотят, чтобы их прах хоронили на кладбище. Поэтому сначала П..." />
 		<!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=AW-16458617391">
 </script>
@@ -200,7 +212,7 @@ var sp_offanimation = 'default';
 		<div class="body-wrapper">
 			<div class="body-innerwrapper">
 				<header id="sp-header"><div class="container"><div class="row"><div id="sp-logo" class="col-5 col-md-5 col-lg-3 "><div class="sp-column "><div class="logo"><a href="../../index.html"><img class="sp-default-logo d-none d-lg-block" src="../../images/LOGO.png" srcset="" alt="bestattungen"><!-- telefone here --></a></div></div></div><div id="sp-menu" class="col-6 col-md-5 col-lg-9 "><div class="sp-column ">			<div class='sp-megamenu-wrapper'>
-				<a id="offcanvas-toggler" class="d-block d-lg-none" aria-label="Helix3 Megamenu Options" href="8-2016-06-12-17-16-53.html#"><i class="fa fa-bars" aria-hidden="true" title="Helix3 Megamenu Options"></i></a>
+				<a id="offcanvas-toggler" class="d-block d-lg-none" aria-label="Helix3 Megamenu Options" href="21-2016-06-12-17-51-42.html#"><i class="fa fa-bars" aria-hidden="true" title="Helix3 Megamenu Options"></i></a>
 				<ul class="sp-megamenu-parent menu-fade d-none d-lg-block"><li class="sp-menu-item current-item active"><a  href="../../index.html"  >Главная</a></li><li class="sp-menu-item"><a  href="../pokhorony.html"  >Похороны</a></li><li class="sp-menu-item"><a  href="../perevozka.html"  >Перевозка</a></li><li class="sp-menu-item"><a  href="../kladbishche.html"  >Кладбищe</a></li><li class="sp-menu-item"><a  href="../drugoe.html"  >Другое</a></li><li class="sp-menu-item"><a  href="../kontakty.html"  >Контакты</a></li></ul>			</div>
 		</div></div></div></div></header><section id="sp-page-title"><div class="container"><div class="row"><div id="sp-title" class="col-lg-12 d-none d-md-block"><div class="sp-column "><div class="sp-module "><div class="sp-module-content">
 <div class="flexslider">
@@ -214,16 +226,10 @@ var sp_offanimation = 'default';
         animation: "fade",     	  directionNav: false,     	  controlNav:false,     	  keyboardNav:false,         direction: "horizontal",        slideshowSpeed:9000,       animationSpeed:1000,        randomize: false     });
   });
 </script>
-</div></div></div></div></div></div></section><section id="sp-top-bar"><div class="container"><div class="row"><div id="sp-top2" class="col-lg-9 d-none d-md-block"><div class="sp-column "><ul class="sp-contact-info"><li class="sp-contact-phone"><i class="fa fa-phone" aria-hidden="true"></i> <a href="tel:03091900781">030 919 00 781</a></li><li class="sp-contact-mobile"><i class="fa fa-mobile" aria-hidden="true"></i> <a href="tel:017663155400">0176 631 55 400</a></li><li class="sp-contact-email"><i class="fa fa-envelope" aria-hidden="true"></i> <a href="mailto:info@polischuk-bestattungen.de">info@polischuk-bestattungen.de</a></li></ul><ul class="social-icons"><li><a target="_blank" href="8-2016-06-12-17-16-53.html#" aria-label="facebook"><i class="fa fa-facebook"></i></a></li><li><a target="_blank" href="8-2016-06-12-17-16-53.html#" aria-label="twitter"><i class="fa fa-twitter"></i></a></li><li><a target="_blank" href="8-2016-06-12-17-16-53.html#" aria-label="linkedin"><i class="fa fa-linkedin"></i></a></li><li><a target="_blank" href="8-2016-06-12-17-16-53.html#" aria-label="flickr"><i class="fa fa-flickr"></i></a></li><li><a href="skype:#?chat" aria-label="skype"><i class="fa fa-skype"></i></a></li></ul></div></div><div id="sp-top1" class="col-lg-3 d-none d-md-block"><div class="sp-column "><div class="sp-module "><div class="sp-module-content"><div class="mod-languages">
+</div></div></div></div></div></div></section><section id="sp-top-bar"><div class="container"><div class="row"><div id="sp-top2" class="col-lg-9 d-none d-md-block"><div class="sp-column "><ul class="sp-contact-info"><li class="sp-contact-phone"><i class="fa fa-phone" aria-hidden="true"></i> <a href="tel:03091900781">030 919 00 781</a></li><li class="sp-contact-mobile"><i class="fa fa-mobile" aria-hidden="true"></i> <a href="tel:017663155400">0176 631 55 400</a></li><li class="sp-contact-email"><i class="fa fa-envelope" aria-hidden="true"></i> <a href="mailto:info@polischuk-bestattungen.de">info@polischuk-bestattungen.de</a></li></ul><ul class="social-icons"><li><a target="_blank" href="21-2016-06-12-17-51-42.html#" aria-label="facebook"><i class="fa fa-facebook"></i></a></li><li><a target="_blank" href="21-2016-06-12-17-51-42.html#" aria-label="twitter"><i class="fa fa-twitter"></i></a></li><li><a target="_blank" href="21-2016-06-12-17-51-42.html#" aria-label="linkedin"><i class="fa fa-linkedin"></i></a></li><li><a target="_blank" href="21-2016-06-12-17-51-42.html#" aria-label="flickr"><i class="fa fa-flickr"></i></a></li><li><a href="skype:#?chat" aria-label="skype"><i class="fa fa-skype"></i></a></li></ul></div></div><div id="sp-top1" class="col-lg-3 d-none d-md-block"><div class="sp-column "><div class="sp-module "><div class="sp-module-content"><div class="mod-languages">
 
-	<form name="lang" method="post" action="8-2016-06-12-17-16-53.html">
-	<select class="inputbox advancedSelect" onchange="document.location.replace(this.value);" >
-			<option dir="ltr" value="/ru/10-ru/8-2016-06-12-17-16-53.html" selected="selected">
-		Russian</option>
-			<option dir="ltr" value="/de/" >
-		German</option>
-		</select>
-	</form>
+<?php include('../lang.php'); ?>
+
 
 </div>
 </div></div></div></div></div></div></section><section id="sp-main"><div class="container"><div class="row"><div id="sp-component" class="col-lg-12 "><div class="sp-column "><div id="system-message-container">
@@ -244,14 +250,7 @@ var sp_offanimation = 'default';
 				
 	
 			<div itemprop="articleBody">
-		<div><span style="text-decoration: underline; color: rgb(0, 102, 82);"><span style="font-size: 12pt;">Кремация<img src="../../images/Kremacia.jpg" alt="Kremacia" width="300" height="200" style="margin-right: 0px; margin-bottom: 10px; margin-left: 15px; float: right;" /><br style="clear: left;" /></span></span></div>
-<div><span style="color: rgb(0, 0, 0); font-size: 12pt;"><span style="font-family: arial,helvetica,sans-serif;">Если Покойный пожелал, или по инициативе близких, &nbsp;можно провести процедуру кремации. Это подходит также, если есть желание подхоронить прах в уже существующую могилу, захоронить урну вне кладбища или же развеять пепел. </span></span></div>
-<div><span style="font-size: 12pt;"><span style="color: rgb(0, 0, 0);"><span style="font-family: arial,helvetica,sans-serif;">Похоронное Бюро Полищук &nbsp;предлагает Вам полный набор услуг по кремации:</span></span><span style="color: rgb(0, 0, 0);"></span></span></div>
-<div><span style="color: rgb(0, 0, 0); font-size: 12pt;"><span style="font-family: arial,helvetica,sans-serif;">это хранение покойного в специальной комнате до кремации, </span></span></div>
-<div><span style="color: rgb(0, 0, 0); font-size: 12pt;"><span style="font-family: arial,helvetica,sans-serif;">организацию прощальной церемонии, </span></span></div>
-<div><span style="color: rgb(0, 0, 0); font-size: 12pt;"><span style="font-family: arial,helvetica,sans-serif;">организацию похорон ( до самой процедуры кремации ), </span></span></div>
-<div><span style="color: rgb(0, 0, 0); font-size: 12pt;"><span style="font-family: arial,helvetica,sans-serif;">кремацию и захоронения урны или развеивание пепла.</span></span></div>
-<div><span style="color: rgb(0, 0, 0); font-size: 12pt;"><span style="font-family: arial,helvetica,sans-serif;">Гроб для кремации а также урну для кремации Вы сможете приобрести в нашем Бюро.</span></span></div>	</div>
+		<div><span style="text-decoration: underline;"><span style="font-size: 12pt;"><span style="color: #006652; text-decoration: underline;">Захоронение в море</span><img src="../../images/zahoronie_v_more_bestattungen_wasser_pohornie.jpg" alt="zahoronie v more bestattungen wasser pohornie" width="300" height="200" style="margin-right: 0px; margin-bottom: 10px; margin-left: 15px; float: right;" /><br style="clear: left;" /></span></span><span style="color: #000000; font-size: 12pt;"><span style="font-family: arial,helvetica,sans-serif;">Развеивание пепла в море -это особый вид захоронения. Есть люди, которые не хотят, чтобы их прах хоронили на кладбище. Поэтому сначала Покойного кремируют, затем помещают прах в урну и после этого развеивают пепел над морем.Море это многогранный символ, оно олицетворяет собой одновременно покой и силу, нежность и мощь.Для тех, кто умер далеко от родных мест, захоронение в море может вызывать чувство единения с мирозданием, или чувство единения с родными и близкими.</span></span></div>	</div>
 
 	
 	
@@ -300,7 +299,7 @@ var sp_offanimation = 'default';
 		
 		<!-- Off Canvas Menu -->
 		<div class="offcanvas-menu">
-			<a href="8-2016-06-12-17-16-53.html#" class="close-offcanvas" aria-label="Close"><i class="fa fa-remove" aria-hidden="true" title="Close"></i></a>
+			<a href="21-2016-06-12-17-51-42.html#" class="close-offcanvas" aria-label="Close"><i class="fa fa-remove" aria-hidden="true" title="Close"></i></a>
 			<div class="offcanvas-inner">
 									<div class="sp-module "><div class="sp-module-content"><ul class="nav menu">
 <li class="item-126  current active"><a href="../../index.html" > Главная</a></li><li class="item-127"><a href="../pokhorony.html" > Похороны</a></li><li class="item-128"><a href="../perevozka.html" > Перевозка</a></li><li class="item-129"><a href="../kladbishche.html" > Кладбищe</a></li><li class="item-130"><a href="../drugoe.html" > Другое</a></li><li class="item-141"><a href="../kontakty.html" > Контакты</a></li></ul>
@@ -325,12 +324,12 @@ var sp_offanimation = 'default';
 				
 				<div  class="cc-buttons">
 					
-							<a role="button" href="8-2016-06-12-17-16-53.html#" onclick="return false;"  class="btn cb-enable">
+							<a role="button" href="21-2016-06-12-17-51-42.html#" onclick="return false;"  class="btn cb-enable">
 
 			I understand and <b>accept</b>			
 </a>
 
-							<a role="button" href="8-2016-06-12-17-16-53.html#" onclick="return false;"  class="btn cb-disable">
+							<a role="button" href="21-2016-06-12-17-51-42.html#" onclick="return false;"  class="btn cb-disable">
 
 			No, I Decline			
 </a>
@@ -340,7 +339,7 @@ var sp_offanimation = 'default';
 			Privacy Policy			
 </a>
 
-							<a role="button" href="8-2016-06-12-17-16-53.html#" onclick="return false;"  class="btn cb-controls cc_popup_open">
+							<a role="button" href="21-2016-06-12-17-51-42.html#" onclick="return false;"  class="btn cb-controls cc_popup_open">
 				
 			<span>Cookie Controls</span>
 			<b class="icon-cogs"></b>
@@ -354,7 +353,7 @@ var sp_offanimation = 'default';
 
 
 <div id="cc_popup_cooco_modalwrap" class="cooco_popup_wrapper" >
-									<form id="cc_popup_form" class="cooco-form" action="8-2016-06-12-17-16-53.html" method="POST">
+									<form id="cc_popup_form" class="cooco-form" action="21-2016-06-12-17-51-42.html" method="POST">
 												<div id="cc_popup" tabindex="-1" class="modal hide fade jviewport-width30" data-backdrop="true">
 	<div class="modal-header">
 			<button

@@ -209,14 +209,8 @@ jQuery(document).ready(function($) {
 				<ul class="sp-megamenu-parent menu-fade d-none d-lg-block"><li class="sp-menu-item"><a  href="index.html"  >Startseite</a></li><li class="sp-menu-item"><a  href="bestattung.html"  >Bestattung</a></li><li class="sp-menu-item"><a  href="ueberfuehrung.html"  >Überführung</a></li><li class="sp-menu-item"><a  href="friedhof.html"  >Friedhof</a></li><li class="sp-menu-item"><a  href="andere-leistungen.html"  >Andere Leistungen</a></li><li class="sp-menu-item current-item active"><a  href="kontakt.html"  >Kontakt/ Impressum</a></li></ul>			</div>
 		</div></div></div></div></header><section id="sp-page-title"><div class="container"><div class="row"><div id="sp-title" class="col-lg-12 d-none d-md-block"><div class="sp-column "></div></div></div></div></section><section id="sp-top-bar"><div class="container"><div class="row"><div id="sp-top2" class="col-lg-9 d-none d-md-block"><div class="sp-column "><ul class="sp-contact-info"><li class="sp-contact-phone"><i class="fa fa-phone" aria-hidden="true"></i> <a href="tel:24/7ServiceTel.:03091900781Mobil:017663155400">24/7 Service Tel.: 030 919 00 781  Mobil: 0176 631 55 400</a></li><li class="sp-contact-email"><i class="fa fa-envelope" aria-hidden="true"></i> <a href="mailto:info@polischuk-bestattungen.de">info@polischuk-bestattungen.de</a></li></ul><ul class="social-icons"><li><a target="_blank" href="kontakt.html#" aria-label="facebook"><i class="fa fa-facebook"></i></a></li><li><a target="_blank" href="kontakt.html#" aria-label="twitter"><i class="fa fa-twitter"></i></a></li><li><a target="_blank" href="kontakt.html#" aria-label="linkedin"><i class="fa fa-linkedin"></i></a></li><li><a target="_blank" href="kontakt.html#" aria-label="flickr"><i class="fa fa-flickr"></i></a></li><li><a href="skype:#?chat" aria-label="skype"><i class="fa fa-skype"></i></a></li></ul></div></div><div id="sp-top1" class="col-lg-3 d-none d-md-block"><div class="sp-column "><div class="sp-module "><div class="sp-module-content"><div class="mod-languages">
 
-	<form name="lang" method="post" action="kontakt.html">
-		<select class="inputbox advancedSelect" onchange="document.location.replace(this.value);" >
-			<option dir="ltr" value="https://pilyav4ik.github.io/polischuk/">
-		Russian</option>
-			<option dir="ltr" value="https://pilyav4ik.github.io/polischuk/de" selected="selected">
-		German</option>
-		</select>
-	</form>
+		<?php include("lang.php") ?>
+
 
 </div>
 </div></div></div></div></div></div></section><section id="sp-main"><div class="container"><div class="row"><div id="sp-component" class="col-lg-12 "><div class="sp-column "><div id="system-message-container">

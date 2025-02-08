@@ -6,14 +6,14 @@
 		<base href="" />
 	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 	<meta name="generator" content="Joomla! - Open Source Content Management" />
-	<title>Другое</title>
+	<title>Похороны</title>
 	<link href="../images/LOGO2.png" rel="shortcut icon" type="image/vnd.microsoft.icon" />
-	<link href="../templates/shaper_helix3/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
-	<link href="../templates/shaper_helix3/css/joomla-fontawesome.min.css" rel="stylesheet" type="text/css" />
-	<link href="../templates/shaper_helix3/css/font-awesome-v4-shims.min.css" rel="stylesheet" type="text/css" />
-	<link href="../templates/shaper_helix3/css/template.css" rel="stylesheet" type="text/css" />
-	<link href="../templates/shaper_helix3/css/presets/preset3.css" rel="stylesheet" class="preset" type="text/css" />
-	<link href="../templates/shaper_helix3/css/frontend-edit.css" rel="stylesheet" type="text/css" />
+	<link href="../../templates/shaper_helix3/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+	<link href="../../templates/shaper_helix3/css/joomla-fontawesome.min.css" rel="stylesheet" type="text/css" />
+	<link href="../../templates/shaper_helix3/css/font-awesome-v4-shims.min.css" rel="stylesheet" type="text/css" />
+	<link href="../../templates/shaper_helix3/css/template.css" rel="stylesheet" type="text/css" />
+	<link href="../../templates/shaper_helix3/css/presets/preset3.css" rel="stylesheet" class="preset" type="text/css" />
+	<link href="../../templates/shaper_helix3/css/frontend-edit.css" rel="stylesheet" type="text/css" />
 	<link href="https://polischuk-bestattungen.de/plugins/system/lab5_cookie_commander/cookie_commander/assets/jquery.cookiebar.css" rel="stylesheet" type="text/css" />
 	<link href="../media/jui/css/bootstrap-tooltip-extended.css@9bedf092946dd5dad411441e62a9e7c0.css" rel="stylesheet" type="text/css" />
 	<link href="../media/mod_languages/css/template.css@9bedf092946dd5dad411441e62a9e7c0.css" rel="stylesheet" type="text/css" />
@@ -69,10 +69,10 @@ max-width: 1140px;
 	<script src="../media/jui/js/jquery-noconflict.js@9bedf092946dd5dad411441e62a9e7c0" type="text/javascript"></script>
 	<script src="../media/jui/js/jquery-migrate.min.js@9bedf092946dd5dad411441e62a9e7c0" type="text/javascript"></script>
 	<script src="https://polischuk-bestattungen.de/plugins/system/helix3/assets/js/bootstrap.legacy.js" type="text/javascript"></script>
-	<script src="../templates/shaper_helix3/js/bootstrap.min.js" type="text/javascript"></script>
-	<script src="../templates/shaper_helix3/js/jquery.sticky.js" type="text/javascript"></script>
-	<script src="../templates/shaper_helix3/js/main.js" type="text/javascript"></script>
-	<script src="../templates/shaper_helix3/js/frontend-edit.js" type="text/javascript"></script>
+	<script src="../../templates/shaper_helix3/js/bootstrap.min.js" type="text/javascript"></script>
+	<script src="../../templates/shaper_helix3/js/jquery.sticky.js" type="text/javascript"></script>
+	<script src="../../templates/shaper_helix3/js/main.js" type="text/javascript"></script>
+	<script src="../../templates/shaper_helix3/js/frontend-edit.js" type="text/javascript"></script>
 	<script src="https://polischuk-bestattungen.de/plugins/system/lab5_cookie_commander/cookie_commander/assets/jquery.cookiebar.js" type="text/javascript"></script>
 	<script src="../media/jui/js/bootstrap-tooltip-extended.min.js@9bedf092946dd5dad411441e62a9e7c0" type="text/javascript"></script>
 	<script src="../media/jui/js/chosen.jquery.min.js@9bedf092946dd5dad411441e62a9e7c0" type="text/javascript"></script>
@@ -190,10 +190,10 @@ jQuery(document).ready(function($) {
 	});
 	
 	</script>
-	<meta property="og:url" content="https://polischuk-bestattungen.de/ru/drugoe.html" />
+	<meta property="og:url" content="https://polischuk-bestattungen.de/ru/pokhorony.html" />
 	<meta property="og:type" content="article" />
-	<meta property="og:title" content="Другое" />
-	<meta property="og:description" content="Услуги Морга Похоронное Бюро Полищук имеет собственный Морг, в котором можно хранить Покойного до дня наступления самих похорон. Ваш Усопший Близкий Челове..." />
+	<meta property="og:title" content="Похороны menu" />
+	<meta property="og:description" content="Похоронное Бюро Полищук поможет Вам выполнить волю усопшего или Ваши пожелания. Мы предлагаем следующие виды захоронений: Захоронение в земле Мы, Похоронно..." />
 		<!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=AW-16458617391">
 </script>
@@ -206,14 +206,12 @@ jQuery(document).ready(function($) {
 </script>
 	</head>
 	
-	<body class="site com-content view-article no-layout no-task itemid-130 ru-ru ltr  sticky-header layout-boxed off-canvas-menu-init">
+	<body class="site com-content view-article no-layout no-task itemid-127 ru-ru ltr  sticky-header layout-boxed off-canvas-menu-init">
 	
 		<div class="body-wrapper">
 			<div class="body-innerwrapper">
-				<header id="sp-header"><div class="container"><div class="row"><div id="sp-logo" class="col-5 col-md-5 col-lg-3 "><div class="sp-column "><div class="logo"><a href="../index.html"><img class="sp-default-logo d-none d-lg-block" src="../images/LOGO.png" srcset="" alt="bestattungen"><!-- telefone here --></a></div></div></div><div id="sp-menu" class="col-6 col-md-5 col-lg-9 "><div class="sp-column ">			<div class='sp-megamenu-wrapper'>
-				<a id="offcanvas-toggler" class="d-block d-lg-none" aria-label="Helix3 Megamenu Options" href="drugoe.html#"><i class="fa fa-bars" aria-hidden="true" title="Helix3 Megamenu Options"></i></a>
-				<ul class="sp-megamenu-parent menu-fade d-none d-lg-block"><li class="sp-menu-item"><a  href="../index.html"  >Главная</a></li><li class="sp-menu-item"><a  href="pokhorony.html"  >Похороны</a></li><li class="sp-menu-item"><a  href="perevozka.html"  >Перевозка</a></li><li class="sp-menu-item"><a  href="kladbishche.html"  >Кладбищe</a></li><li class="sp-menu-item current-item active"><a  href="drugoe.html"  >Другое</a></li><li class="sp-menu-item"><a  href="kontakty.html"  >Контакты</a></li></ul>			</div>
-		</div></div></div></div></header><section id="sp-page-title"><div class="container"><div class="row"><div id="sp-title" class="col-lg-12 d-none d-md-block"><div class="sp-column "><div class="sp-module "><div class="sp-module-content">
+			<?php include('menu.php'); ?>	
+			<section id="sp-page-title"><div class="container"><div class="row"><div id="sp-title" class="col-lg-12 d-none d-md-block"><div class="sp-column "><div class="sp-module "><div class="sp-module-content">
 <div class="flexslider">
   <ul class="slides">
   	<li><img src='../images/perevozka.png' alt=''></li>  </ul>
@@ -225,16 +223,9 @@ jQuery(document).ready(function($) {
         animation: "fade",     	  directionNav: false,     	  controlNav:false,     	  keyboardNav:false,         direction: "horizontal",        slideshowSpeed:9000,       animationSpeed:1000,        randomize: false     });
   });
 </script>
-</div></div></div></div></div></div></section><section id="sp-top-bar"><div class="container"><div class="row"><div id="sp-top2" class="col-lg-9 d-none d-md-block"><div class="sp-column "><ul class="sp-contact-info"><li class="sp-contact-phone"><i class="fa fa-phone" aria-hidden="true"></i> <a href="tel:03091900781">030 919 00 781</a></li><li class="sp-contact-mobile"><i class="fa fa-mobile" aria-hidden="true"></i> <a href="tel:017663155400">0176 631 55 400</a></li><li class="sp-contact-email"><i class="fa fa-envelope" aria-hidden="true"></i> <a href="mailto:info@polischuk-bestattungen.de">info@polischuk-bestattungen.de</a></li></ul><ul class="social-icons"><li><a target="_blank" href="drugoe.html#" aria-label="facebook"><i class="fa fa-facebook"></i></a></li><li><a target="_blank" href="drugoe.html#" aria-label="twitter"><i class="fa fa-twitter"></i></a></li><li><a target="_blank" href="drugoe.html#" aria-label="linkedin"><i class="fa fa-linkedin"></i></a></li><li><a target="_blank" href="drugoe.html#" aria-label="flickr"><i class="fa fa-flickr"></i></a></li><li><a href="skype:#?chat" aria-label="skype"><i class="fa fa-skype"></i></a></li></ul></div></div><div id="sp-top1" class="col-lg-3 d-none d-md-block"><div class="sp-column "><div class="sp-module "><div class="sp-module-content"><div class="mod-languages">
+</div></div></div></div></div></div></section><section id="sp-top-bar"><div class="container"><div class="row"><div id="sp-top2" class="col-lg-9 d-none d-md-block"><div class="sp-column "><ul class="sp-contact-info"><li class="sp-contact-phone"><i class="fa fa-phone" aria-hidden="true"></i> <a href="tel:03091900781">030 919 00 781</a></li><li class="sp-contact-mobile"><i class="fa fa-mobile" aria-hidden="true"></i> <a href="tel:017663155400">0176 631 55 400</a></li><li class="sp-contact-email"><i class="fa fa-envelope" aria-hidden="true"></i> <a href="mailto:info@polischuk-bestattungen.de">info@polischuk-bestattungen.de</a></li></ul><ul class="social-icons"><li><a target="_blank" href="pokhorony.html#" aria-label="facebook"><i class="fa fa-facebook"></i></a></li><li><a target="_blank" href="pokhorony.html#" aria-label="twitter"><i class="fa fa-twitter"></i></a></li><li><a target="_blank" href="pokhorony.html#" aria-label="linkedin"><i class="fa fa-linkedin"></i></a></li><li><a target="_blank" href="pokhorony.html#" aria-label="flickr"><i class="fa fa-flickr"></i></a></li><li><a href="skype:#?chat" aria-label="skype"><i class="fa fa-skype"></i></a></li></ul></div></div><div id="sp-top1" class="col-lg-3 d-none d-md-block"><div class="sp-column "><div class="sp-module "><div class="sp-module-content"><div class="mod-languages">
 
-	<form name="lang" method="post" action="drugoe.html">
-		<select class="inputbox advancedSelect" onchange="document.location.replace(this.value);" >
-			<option dir="ltr" value="https://pilyav4ik.github.io/polischuk/" selected="selected">
-		Russian</option>
-			<option dir="ltr" value="https://pilyav4ik.github.io/polischuk/de" >
-		German</option>
-		</select>
-	</form>
+<?php include('lang.php'); ?>
 
 </div>
 </div></div></div></div></div></div></section><section id="sp-main"><div class="container"><div class="row"><div id="sp-component" class="col-lg-12 "><div class="sp-column "><div id="system-message-container">
@@ -255,37 +246,24 @@ jQuery(document).ready(function($) {
 				
 	
 			<div itemprop="articleBody">
-		<div>
-<div itemprop="articleBody">
-<div><span style="text-decoration: underline; color: #006652;"><span style="font-family: arial,helvetica,sans-serif; font-size: 12pt;">Услуги Морга</span></span><img src="https://polischuk-bestattungen.de/images/uslugi_morga_K%C3%83%C2%BChlraum.jpg" alt="uslugi morga Kühlraum" width="300" height="201" style="margin-right: 0px; margin-bottom: 10px; margin-left: 15px; float: right;" /></div>
-<div><span style="font-size: 12pt; font-family: arial,helvetica,sans-serif;">Похоронное Бюро Полищук имеет собственный Морг, в котором можно хранить Покойного до дня наступления самих похорон. Ваш Усопший Близкий Человек будет сохранен надлежащим образом и Вам не придется переплачивать дополнительно за услуги другого Морга. По Вашему желанию, Усопший будет омыт, одет и помещен в гроб. И также, по Вашему желанию, Покойному будет нанесен грим. Если у Покойного были какие-нибудь любимые вещи, их тоже можно будет положить в Гроб.</span></div>
-<div><span style="font-family: arial,helvetica,sans-serif;"></span></div>
-<div><span style="font-family: arial,helvetica,sans-serif;"></span></div>
+		<div><strong><span style="font-size: 13pt; font-family: arial,helvetica,sans-serif; color: #006652;">Похоронное Бюро Полищук поможет Вам выполнить волю усопшего или Ваши пожелания.</span></strong></div>
+<div><strong><span style="font-size: 13pt; font-family: arial,helvetica,sans-serif; color: #006652;">Мы предлагаем следующие виды захоронений:</span></strong></div>
+<div><span style="font-size: 13pt; font-family: arial,helvetica,sans-serif;"></span></div>
 <div>&nbsp;</div>
-<div><span style="font-family: arial,helvetica,sans-serif;"></span></div>
-</div>
-</div>
-<div><span style="text-decoration: underline; color: #006652;"><span style="font-family: arial,helvetica,sans-serif; font-size: 12pt;"><img src="../images/pomniki-crkovnie_rituali_Gedenkfeier_.jpg" alt="pomniki crkovnie rituali Gedenkfeier " width="300" height="200" style="margin-right: 15px; margin-bottom: 10px; margin-left: 0px; float: left;" />Поминки</span></span><span style="font-family: arial,helvetica,sans-serif;"><span style="font-size: 10pt;"></span></span></div>
-<div><span style="font-family: arial,helvetica,sans-serif;"><span style="font-size: 16px;"></span><span style="font-size: 12pt;">Когда человек уходит в мир иной, очень важно для каждого из нас собрать близких, родных и друзей Покойного, чтобы в теплой атмосфере вспомнить о нем. Вспомнить о важных моментах и событиях в жизни Покойного, вспомнить какую роль Ваш Близкий Человек сыграл в Вашей жизни, и в связи со всем этим, конечно же, оценить время проведенное вмести с Ним. Мы, Похоронное Бюро Полищук предлагаем Вам организацию Поминок, так как это<span style="color: #1a1a1a;">&nbsp;&nbsp;</span>у &nbsp;нас принято. </span></span></div>
-<div style="margin: 0px 0px 10px; color: #333333; font-family: 'Open Sans',sans-serif; font-size: 14px;"><span style="font-family: arial,helvetica,sans-serif;"><span style="font-size: 12pt;">Все детали Мы обсудим с Вами в Бюро или по телефонам:</span><span style="color: #006652;">+49(0)30 919 00 781&nbsp;&nbsp; Моб.: +49 (0)176 631 55 400&nbsp;<span style="color: #000000;">а</span></span> также пишите нам на Емаил:<span style="font-size: 12pt;">&nbsp;<span style="color: #006652;"><span id="cloak4caa48e176911e07b5c533cbcff0ce12">Этот адрес электронной почты защищен от спам-ботов. Для просмотра адреса в вашем браузере должен быть включен Javascript.</span><script type='text/javascript'>
-				document.getElementById('cloak4caa48e176911e07b5c533cbcff0ce12').innerHTML = '';
-				var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
-				var path = 'hr' + 'ef' + '=';
-				var addy4caa48e176911e07b5c533cbcff0ce12 = '&#105;nf&#111;' + '&#64;';
-				addy4caa48e176911e07b5c533cbcff0ce12 = addy4caa48e176911e07b5c533cbcff0ce12 + 'p&#111;l&#105;sch&#117;k-b&#101;st&#97;tt&#117;ng&#101;n' + '&#46;' + 'd&#101;';
-				var addy_text4caa48e176911e07b5c533cbcff0ce12 = '&#105;nf&#111;' + '&#64;' + 'p&#111;l&#105;sch&#117;k-b&#101;st&#97;tt&#117;ng&#101;n' + '&#46;' + 'd&#101;';document.getElementById('cloak4caa48e176911e07b5c533cbcff0ce12').innerHTML += '<a ' + path + '\'' + prefix + ':' + addy4caa48e176911e07b5c533cbcff0ce12 + '\' style="color: #006652;">'+addy_text4caa48e176911e07b5c533cbcff0ce12+'<\/a>';
-		</script></span></span></span></div>
-<div><span style="font-family: arial,helvetica,sans-serif; font-size: 12pt;"></span></div>
-<div><span style="text-decoration: underline; color: #006652;"><span style="font-family: arial,helvetica,sans-serif; font-size: 12pt;">Церковная церемония</span></span><img src="../images/cerkovnaia_ceremonia_Kirchliche_Zeremonie_bestattung.jpg" alt="cerkovnaia ceremonia Kirchliche Zeremonie bestattung" width="300" height="201" style="margin-right: 0px; margin-bottom: 10px; margin-left: 15px; float: right;" /></div>
-<div><span style="font-family: arial,helvetica,sans-serif; font-size: 12pt;">Очень важно провести Вашего Близкого Человека в последний путь так, как это предписывало вероисповеданиe Усопшего в соответствии с Его Верой или убеждениями. Не менее важно для близких Покойного сделать все возможное, чтобы в конце пути осталось светлое и легкое чувство выполненного долга перед Усопшим. Это важно также и для нас! Поэтому по Вашему желанию, мы организуем церковную церемонию, в соответствии с вероисповеданием Покойного. Для нас в первую очередь важно так выполнить нашу работу, чтобы после Похорон, Мы вместе смогли бы сказать - "МЫ сделали все правильно"!</span></div>
+<div><span style="font-size: 13pt; color: #006652;"><span style="text-decoration: underline;">Захоронение в земле</span><img src="../images/zahoronie_v_zemle-bestattug_erde_pohornie.jpg" alt="zahoronie v zemle bestattug erde pohornie" width="300" height="200" style="margin-right: 10px; margin-bottom: 10px; margin-left: 15px; float: right;" /><br style="clear: left;" /></span></div>
+<div><span style="font-size: 13pt;"><span style="font-family: arial,helvetica,sans-serif;">Мы, Похоронное Бюро Полищук </span></span></div>
+<div><span style="font-size: 13pt;"><span style="font-family: arial,helvetica,sans-serif;">поможем Вам зарезервировать могилу, день и время погребения на любом кладбище Германии. Также в нашем Бюро Вы сможете выбрать все необходимое для похорон: большое разнообразие гробов, одежды для Покойного, венков и свечей. У нас </span></span></div>
+<div><span style="font-size: 13pt;"><span style="font-family: arial,helvetica,sans-serif;">есть собственный морг, комната для омовения, также специально подготовленный специалист приведет Вашего близкого человека в достойный вид - омоет Покойного, оденет и, по Вашему желанию, нанесет грим.Также по Вашему желанию,зарезервируем для Вас место и время проведения поминок, организуем проведение церковной церемонии, в зависимости от вероисповедания Покойного, поможем заказать надгробную плиту или памятник на могилу. Если Вы не живете в Германии, или </span></span></div>
+<div><span style="font-size: 13pt;"><span style="font-family: arial,helvetica,sans-serif;">по каким – то причинам не можете посещать могилу близкого Вам человека - доверьте уход за могилой нам. Это может быть постоянный уход а также единоразовое приведения захоронения в порядок.</span><span style="font-family: arial,helvetica,sans-serif;"><br /></span></span></div>
 <div>&nbsp;</div>
-<div><span style="font-family: arial,helvetica,sans-serif;"></span></div>
-<div><span style="font-family: arial,helvetica,sans-serif;"></span></div>
-<div><img src="../images/musulmanskie_obriad.jpg" alt="musulmanskie obriad" width="300" height="199" style="margin-right: 15px; margin-bottom: 10px; margin-left: 0px; float: left;" /><span style="text-decoration: underline; font-size: 12pt; color: #006652;"><span style="font-family: arial,helvetica,sans-serif;">Мусульманский Обряд</span></span></div>
-<div><span style="font-family: arial,helvetica,sans-serif; font-size: 12pt;">Если усопший исповедовал Ислам, и должен быть похоронен по мусульманскому обряду- то в самые&nbsp;&nbsp; кратчайшие&nbsp; сроки, со знанием всех тонкостей &nbsp;мы организуем для Вас Традиционные Мусульманские Похороны. &nbsp;В случае смерти, пожалуйста, позвоните нам как можно скорее, чтобы мы, в свою очередь, могли так быстро действовать, как это и предписывает Мусульманская Традиция. У нас в наличии есть современный транспорт, на котором наши работники смогут быстро забрать покойного и обеспечить выполнение всех Ритуальных Предписаний в нашем собственном &nbsp;Морге. Также в наши услуги входят организация Прощальной церемонии, Омовение, Обертывание покойного, Ритуальная Молитва и т.д. У нас Вы получите все необходимое для Погребения от «Мусульманского Гроба» и льняных покрывал до моющих принадлежностей. Разумеется, в случае социальных похорон, все Религиозные предписания будут соблюдены! Поручите нам организацию Похорон, и Вам не нужно будет больше не о чем беспокоиться! Также предоставьте нам оформление всех документов в Вашем Посольстве, Консульстве и в Немецких органах власти. Во многих городах Германии, существуют Кладбища, на которых есть участки для Мусульманских Захоронений, поэтому и в Германии мы организуем Похороны с выполнением всех мусульманских требований. Усопший кладется в сторону Мекки и Траурная Церемония начинается.</span></div>
+<div><span style="font-size: 13pt; color: #006652;"><img src="../images/Kremacia.jpg" alt="Kremacia" width="300" height="200" style="margin-right: 15px; margin-bottom: 10px; margin-left: 10px; float: left;" /><span style="text-decoration: underline;">Кремация</span></span></div>
+<div><span style="color: #000000;"><span style="font-size: 13pt;"><span style="font-family: arial,helvetica,sans-serif;">Если Покойный пожелал, или по инициативе близких, &nbsp;можно провести процедуру кремации. Это подходит также, если есть желание подхоронить прах в уже существующую могилу, захоронить урну вне кладбища или же развеять пепел. Похоронное Бюро Полищук &nbsp;предлагает Вам полный набор услуг по кремации: это хранение покойного в специальной комнате до кремации,организацию прощальной церемонии, организацию похорон ( до самой процедуры кремации), кремацию</span></span></span></div>
+<div><span style="color: #000000;"><span style="font-size: 13pt;"><span style="font-family: arial,helvetica,sans-serif;">и захоронения урны или развеивание пепла.</span></span><span style="font-size: 13pt;"><span style="font-family: arial,helvetica,sans-serif;"></span></span></span><span style="color: #000000;"><span style="font-size: 13pt;"><span style="font-family: arial,helvetica,sans-serif;">Гроб для кремации а также урну для кремации Вы сможете приобрести в нашем Бюро.</span></span></span></div>
 <div>&nbsp;</div>
-<div><span style="text-decoration: underline; font-size: 12pt; color: #006652;"><span style="font-family: arial,helvetica,sans-serif;">Стоимость</span></span><img src="../images/rufoto/geld-dengi-money.jpg" alt="geld dengi money" width="300" height="200" style="margin-right: 0px; margin-bottom: 10px; margin-left: 15px; float: right;" /></div>
-<div><span style="font-size: 12pt; font-family: arial,helvetica,sans-serif;">В Германии, по закону, близкие Покойного должны оплачивать похороны. Вы можете также сами об этом позаботиться, не обременяя свою семью дополнительными тратами и вовремя заключить Страховку «SterbeGeld Vorsorge» через одного из наших Партнеров. Если же близкие Покойного получают социальную помощь, тогда нужно обратиться в Социаламт, чтобы за похороны заплатил город. В этом случае очень важно проследить и даже проконтролировать, чтобы работник Социаламта не выбрал самый дешевый и не гуманный вариант погребения. Чтобы избежать этой неприятной ситуации, просто предоставьте нам возможность договариваться с социальными службами. Мы сделаем все для того, чтобы даже «Социальные похороны» были достойными! Если же Вы получите отказ от Социаламта, мы гарантируем Вам приемлемую цену! &nbsp;</span></div>	</div>
+<div><span style="font-size: 13pt; color: #006652; font-family: arial,helvetica,sans-serif;"><span style="text-decoration: underline;">В Море</span><img src="../images/zahoronie_v_more_bestattungen_wasser_pohornie.jpg" alt="zahoronie v more bestattungen wasser pohornie" width="301" height="202" style="margin-right: 10px; margin-bottom: 10px; margin-left: 15px; float: right;" /><br style="clear: left;" /></span></div>
+<div>
+<p style="margin: 0px 0px 10px; color: #333333; font-family: 'Open Sans',sans-serif; font-size: 14px;"><span style="font-size: 13pt; font-family: arial,helvetica,sans-serif;">Развеивание пепла в море -это особый вид захоронения. Есть люди, которые не хотят, чтобы их прах хоронили на кладбище. Поэтому сначала Покойного кремируют, затем помещают прах в урну и после этого развеивают пепел над морем. Море это многогранный символ, оно олицетворяет собой одновременно покой и силу, нежность и мощь. Для тех, кто умер далеко от родных мест, захоронение в море может вызывать чувство единения с мирозданием, или чувство единения с родными и близкими.</span></p>
+</div>	</div>
 
 	
 	
@@ -334,10 +312,10 @@ jQuery(document).ready(function($) {
 		
 		<!-- Off Canvas Menu -->
 		<div class="offcanvas-menu">
-			<a href="drugoe.html#" class="close-offcanvas" aria-label="Close"><i class="fa fa-remove" aria-hidden="true" title="Close"></i></a>
+			<a href="pokhorony.html#" class="close-offcanvas" aria-label="Close"><i class="fa fa-remove" aria-hidden="true" title="Close"></i></a>
 			<div class="offcanvas-inner">
 									<div class="sp-module "><div class="sp-module-content"><ul class="nav menu">
-<li class="item-126"><a href="../index.html" > Главная</a></li><li class="item-127"><a href="pokhorony.html" > Похороны</a></li><li class="item-128"><a href="perevozka.html" > Перевозка</a></li><li class="item-129"><a href="kladbishche.html" > Кладбищe</a></li><li class="item-130  current active"><a href="drugoe.html" > Другое</a></li><li class="item-141"><a href="kontakty.html" > Контакты</a></li></ul>
+<li class="item-126"><a href="../index.html" > Главная</a></li><li class="item-127  current active"><a href="pokhorony.html" > Похороны</a></li><li class="item-128"><a href="perevozka.html" > Перевозка</a></li><li class="item-129"><a href="kladbishche.html" > Кладбищe</a></li><li class="item-130"><a href="drugoe.html" > Другое</a></li><li class="item-141"><a href="kontakty.html" > Контакты</a></li></ul>
 </div></div>
 							</div>
 		</div>
@@ -359,12 +337,12 @@ jQuery(document).ready(function($) {
 				
 				<div  class="cc-buttons">
 					
-							<a role="button" href="drugoe.html#" onclick="return false;"  class="btn cb-enable">
+							<a role="button" href="pokhorony.html#" onclick="return false;"  class="btn cb-enable">
 
 			I understand and <b>accept</b>			
 </a>
 
-							<a role="button" href="drugoe.html#" onclick="return false;"  class="btn cb-disable">
+							<a role="button" href="pokhorony.html#" onclick="return false;"  class="btn cb-disable">
 
 			No, I Decline			
 </a>
@@ -374,7 +352,7 @@ jQuery(document).ready(function($) {
 			Privacy Policy			
 </a>
 
-							<a role="button" href="drugoe.html#" onclick="return false;"  class="btn cb-controls cc_popup_open">
+							<a role="button" href="pokhorony.html#" onclick="return false;"  class="btn cb-controls cc_popup_open">
 				
 			<span>Cookie Controls</span>
 			<b class="icon-cogs"></b>
@@ -388,7 +366,7 @@ jQuery(document).ready(function($) {
 
 
 <div id="cc_popup_cooco_modalwrap" class="cooco_popup_wrapper" >
-									<form id="cc_popup_form" class="cooco-form" action="drugoe.html" method="POST">
+									<form id="cc_popup_form" class="cooco-form" action="pokhorony.html" method="POST">
 												<div id="cc_popup" tabindex="-1" class="modal hide fade jviewport-width30" data-backdrop="true">
 	<div class="modal-header">
 			<button

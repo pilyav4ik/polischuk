@@ -5,11 +5,8 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<base href="" />
 	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
-	<meta name="description" content="030 919 00 781 Mobil: 0152 536 65 817 · info@polischuk-bestattungen.de. 24 Stunden Dienst und Hausbesuche. Enge Zusammenarbeit mit den Kirchen Organisation und Durchführung der kirchlichen Zeremonien (je nach Konfession). Charlottenburg, Wilmersdorf, Grünewald, Marzahn, Spandau, Pankow, Reinickendorf, Mitte, Friedrichshain, Zehlendorf, steglitz, Köpenick. Durchführung der Totenmesse und weiteren bestattungen, Gedenkfeiern, Fuhrpark, Überführung, Grabpflege, Grabstein, Bestattung Zubehör, Kühlraum, Muslimische Bestattung, SterbeGeld, Ausland, Heimat, Russische, Russkoe Pohoronnoe Büro berline, Pohoroni, pohoronnie" />
 	<meta name="generator" content="Joomla! - Open Source Content Management" />
-	<title>Bestattungen berlin, neukölln, rudow, buckow, mariendorf, britz, schönefeld, tempelhof, lichtenrade, kreuzberg, treptow, marienfelde, bestattung, bestatter, Muslimische</title>
-	<link href="../index.html" rel="alternate" hreflang="ru-RU" />
-	<link href="index.html" rel="alternate" hreflang="de-DE" />
+	<title>Überführung</title>
 	<link href="../images/LOGO2.png" rel="shortcut icon" type="image/vnd.microsoft.icon" />
 	<link href="../templates/shaper_helix3/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
 	<link href="../templates/shaper_helix3/css/joomla-fontawesome.min.css" rel="stylesheet" type="text/css" />
@@ -185,14 +182,13 @@ jQuery(document).ready(function($) {
 	});
 	
 	</script>
-	<meta property="og:url" content="https://polischuk-bestattungen.de/de/" />
+	<meta property="og:url" content="https://polischuk-bestattungen.de/de/ueberfuehrung.html" />
 	<meta property="og:type" content="article" />
-	<meta property="og:title" content="Bestattungen berlin, neukölln, rudow, buckow, mariendorf, britz, schönefeld, tempelhof, lichtenrade, kreuzberg, treptow, marienfelde, bestattung, bestatter, Muslimische" />
-	<meta property="og:description" content="Der Tod eines g eliebten Menschen ist fast immer etwas Unvorbereitetes. Bei einem Todesfall entla sten wir Familien und Angehörige und übernehme n die gesa..." />
-	<link href="../index.html" rel="alternate" hreflang="x-default" />
+	<meta property="og:title" content="Überführung" />
+	<meta property="og:description" content="Überführung Polischuk- Bestattungen organisiert auf Wunsch eine schnelle und reibungslose Überführung ins Ausland. Ein weiteres Angebot ist die Rücküberfüh..." />
 			</head>
 	
-	<body class="site com-content view-article no-layout no-task itemid-132 de-de ltr  sticky-header layout-boxed off-canvas-menu-init">
+	<body class="site com-content view-article no-layout no-task itemid-134 de-de ltr  sticky-header layout-boxed off-canvas-menu-init">
 	
 		<div class="body-wrapper">
 			<div class="body-innerwrapper">
@@ -214,8 +210,8 @@ jQuery(document).ready(function($) {
 </table>
 </div></div>
 </div></div></div></div></div></div></section><header id="sp-header"><div class="container"><div class="row"><div id="sp-logo" class="col-10 col-lg-3 "><div class="sp-column "><div class="logo"><a href="../index.html"><img class="sp-default-logo d-none d-lg-block" src="../images/LOGO.png" srcset="" alt="bestattungen"><!-- telefone here --></a></div></div></div><div id="sp-menu" class="col-lg-9 "><div class="sp-column ">			<div class='sp-megamenu-wrapper'>
-				<a id="offcanvas-toggler" class="d-block d-lg-none" aria-label="Helix3 Megamenu Options" href="index.html#"><i class="fa fa-bars" aria-hidden="true" title="Helix3 Megamenu Options"></i></a>
-				<ul class="sp-megamenu-parent menu-fade d-none d-lg-block"><li class="sp-menu-item current-item active"><a  href="index.html"  >Startseite</a></li><li class="sp-menu-item"><a  href="bestattung.html"  >Bestattung</a></li><li class="sp-menu-item"><a  href="ueberfuehrung.html"  >Überführung</a></li><li class="sp-menu-item"><a  href="friedhof.html"  >Friedhof</a></li><li class="sp-menu-item"><a  href="andere-leistungen.html"  >Andere Leistungen</a></li><li class="sp-menu-item"><a  href="kontakt.html"  >Kontakt/ Impressum</a></li></ul>			</div>
+				<a id="offcanvas-toggler" class="d-block d-lg-none" aria-label="Helix3 Megamenu Options" href="ueberfuehrung.html#"><i class="fa fa-bars" aria-hidden="true" title="Helix3 Megamenu Options"></i></a>
+				<ul class="sp-megamenu-parent menu-fade d-none d-lg-block"><li class="sp-menu-item"><a  href="index.html"  >Startseite</a></li><li class="sp-menu-item"><a  href="bestattung.html"  >Bestattung</a></li><li class="sp-menu-item current-item active"><a  href="ueberfuehrung.html"  >Überführung</a></li><li class="sp-menu-item"><a  href="friedhof.html"  >Friedhof</a></li><li class="sp-menu-item"><a  href="andere-leistungen.html"  >Andere Leistungen</a></li><li class="sp-menu-item"><a  href="kontakt.html"  >Kontakt/ Impressum</a></li></ul>			</div>
 		</div></div></div></div></header><section id="sp-page-title"><div class="container"><div class="row"><div id="sp-title" class="col-lg-12 d-none d-md-block"><div class="sp-column "><div class="sp-module "><div class="sp-module-content">
 <div class="flexslider">
   <ul class="slides">
@@ -228,16 +224,10 @@ jQuery(document).ready(function($) {
         animation: "fade",     	  directionNav: false,     	  controlNav:false,     	  keyboardNav:false,         direction: "horizontal",        slideshowSpeed:9000,       animationSpeed:1000,        randomize: false     });
   });
 </script>
-</div></div></div></div></div></div></section><section id="sp-top-bar"><div class="container"><div class="row"><div id="sp-top2" class="col-lg-9 d-none d-md-block"><div class="sp-column "><ul class="sp-contact-info"><li class="sp-contact-phone"><i class="fa fa-phone" aria-hidden="true"></i> <a href="tel:24/7ServiceTel.:03091900781Mobil:017663155400">24/7 Service Tel.: 030 919 00 781  Mobil: 0176 631 55 400</a></li><li class="sp-contact-email"><i class="fa fa-envelope" aria-hidden="true"></i> <a href="mailto:info@polischuk-bestattungen.de">info@polischuk-bestattungen.de</a></li></ul><ul class="social-icons"><li><a target="_blank" href="index.html#" aria-label="facebook"><i class="fa fa-facebook"></i></a></li><li><a target="_blank" href="index.html#" aria-label="twitter"><i class="fa fa-twitter"></i></a></li><li><a target="_blank" href="index.html#" aria-label="linkedin"><i class="fa fa-linkedin"></i></a></li><li><a target="_blank" href="index.html#" aria-label="flickr"><i class="fa fa-flickr"></i></a></li><li><a href="skype:#?chat" aria-label="skype"><i class="fa fa-skype"></i></a></li></ul></div></div><div id="sp-top1" class="col-lg-3 d-none d-md-block"><div class="sp-column "><div class="sp-module "><div class="sp-module-content"><div class="mod-languages">
+</div></div></div></div></div></div></section><section id="sp-top-bar"><div class="container"><div class="row"><div id="sp-top2" class="col-lg-9 d-none d-md-block"><div class="sp-column "><ul class="sp-contact-info"><li class="sp-contact-phone"><i class="fa fa-phone" aria-hidden="true"></i> <a href="tel:24/7ServiceTel.:03091900781Mobil:017663155400">24/7 Service Tel.: 030 919 00 781  Mobil: 0176 631 55 400</a></li><li class="sp-contact-email"><i class="fa fa-envelope" aria-hidden="true"></i> <a href="mailto:info@polischuk-bestattungen.de">info@polischuk-bestattungen.de</a></li></ul><ul class="social-icons"><li><a target="_blank" href="ueberfuehrung.html#" aria-label="facebook"><i class="fa fa-facebook"></i></a></li><li><a target="_blank" href="ueberfuehrung.html#" aria-label="twitter"><i class="fa fa-twitter"></i></a></li><li><a target="_blank" href="ueberfuehrung.html#" aria-label="linkedin"><i class="fa fa-linkedin"></i></a></li><li><a target="_blank" href="ueberfuehrung.html#" aria-label="flickr"><i class="fa fa-flickr"></i></a></li><li><a href="skype:#?chat" aria-label="skype"><i class="fa fa-skype"></i></a></li></ul></div></div><div id="sp-top1" class="col-lg-3 d-none d-md-block"><div class="sp-column "><div class="sp-module "><div class="sp-module-content"><div class="mod-languages">
 
-	<form name="lang" method="post" action="">
-		<select class="inputbox advancedSelect" onchange="document.location.replace(this.value);" >
-			<option dir="ltr" value="https://pilyav4ik.github.io/polischuk">
-		Russian</option>
-			<option dir="ltr" value="https://pilyav4ik.github.io/polischuk/de" selected="selected" >
-		German</option>
-		</select>
-	</form>
+<?php include("lang.php") ?>
+
 
 </div>
 </div></div></div></div></div></div></section><section id="sp-main"><div class="container"><div class="row"><div id="sp-component" class="col-lg-12 "><div class="sp-column "><div id="system-message-container">
@@ -258,9 +248,12 @@ jQuery(document).ready(function($) {
 				
 	
 			<div itemprop="articleBody">
-		<div><img src="../images/betattung_startseite.jpg" alt="betattung startseite" width="300" height="200" style="margin-right: 0px; margin-bottom: 10px; margin-left: 15px; float: right;" /><span style="font-family: arial,helvetica,sans-serif; font-size: 12pt;"><span lang="de-DE">Der Tod eines g</span><span lang="de-DE">eliebten Menschen ist fast immer etwas Unvorbereitetes.</span> Bei einem Todesfall entla</span><span style="font-family: arial,helvetica,sans-serif; font-size: 12pt;">sten wir Familien und Angehörige<span lang="de-DE"> und</span> <span lang="de-DE">übernehme</span><span lang="de-DE">n die gesamte Organisation und Durchführung einer Beisetzung oder <span style="color: #006652;"><a href="ueberfuehrung.html" style="color: #006652;">Überführung</a></span> ins Ausland. </span>Zu unseren Angeboten und Leistungen gehören unter anderem:</span></div>
-<div><span style="font-family: arial,helvetica,sans-serif; font-size: 12pt;">persönliche, verständnisvolle Zuwendung zu Familien und Angehörigen. Schnelle, reibungslose und sachkundige Vorbereitung und Durchführung der Bestattung. Zuverlässige Abwicklung sämtlicher <span style="color: #006652;"><a href="11-de/50-checkliste-dokumente.html" style="color: #006652;">Formalitäten</a></span> mit Behörden.</span></div>
-<div><span style="font-family: arial,helvetica,sans-serif; font-size: 12pt;">24 Stunden Dienst und Hausbesuche. Enge Zusammenarbeit mit den Kirchen Organisation und Durchführung der <span style="color: #006652;"><a href="11-de/29-kirchliche-zeremonie.html" style="color: #006652;">kirchlichen Zeremonien</a></span> (je nach Konfession). Durchführung der Totenmesse und weiteren Gedenkfeiern. Enge Zusammenarbeit mit den jeweiligen <span style="color: #006652;"><a href="friedhof.html" style="color: #006652;">Friedhöfen</a></span> und Fluglinien (falls notwendig). Sofortabholung vom Sterbeort mit dem eigenen Fuhrpark.</span></div>	</div>
+		<div>&nbsp;</div>
+<div><span style="text-decoration: underline; color: #006652;"><span style="font-size: 12pt; text-decoration: underline;">Überführung<img src="../images/perevozka.jpg" alt="perevozka" style="margin-right: 10px; margin-bottom: 10px; margin-left: 10px; float: right;" /><br style="clear: left;" /></span></span><span style="font-size: 12pt;"><span style="font-family: arial,helvetica,sans-serif;">Polischuk- Bestattungen organisiert auf Wunsch eine schnelle und reibungslose Überführung ins Ausland. Ein weiteres Angebot ist die Rücküberführung eines Verstorbenen aus dem Ausland nach Deutschland.</span>&nbsp;<span style="font-family: arial,helvetica,sans-serif;">Polischuk-Bestattungen erledigt in kürzester Zeit alle Formalitäten in den Konsulaten, Botschaften und allen anderen relevanten Behörden, um eine reibungslose Beisetzung oder Überführung zu gestalten. In bestimmten Fällen, in denen die verstorbene Person schnell überführt oder beigesetzt werden muss, sichert Polischuk-Bestattungen eine in der Regel am nächsten Tag stattfindende Überführung oder Beisetzung zu. &nbsp;Polischuk-Bestattungen berät Sie gerne in einem persönlichen Gespräch, gerne auch bei Ihnen vor Ort.</span></span></div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>	</div>
 
 	
 	
@@ -309,10 +302,10 @@ jQuery(document).ready(function($) {
 		
 		<!-- Off Canvas Menu -->
 		<div class="offcanvas-menu">
-			<a href="index.html#" class="close-offcanvas" aria-label="Close"><i class="fa fa-remove" aria-hidden="true" title="Close"></i></a>
+			<a href="ueberfuehrung.html#" class="close-offcanvas" aria-label="Close"><i class="fa fa-remove" aria-hidden="true" title="Close"></i></a>
 			<div class="offcanvas-inner">
 									<div class="sp-module "><div class="sp-module-content"><ul class="nav menu">
-<li class="item-132  current active"><a href="index.html" > Startseite</a></li><li class="item-133"><a href="bestattung.html" > Bestattung</a></li><li class="item-134"><a href="ueberfuehrung.html" > Überführung</a></li><li class="item-135"><a href="friedhof.html" > Friedhof</a></li><li class="item-136"><a href="andere-leistungen.html" > Andere Leistungen</a></li><li class="item-137"><a href="kontakt.html" > Kontakt/ Impressum</a></li></ul>
+<li class="item-132"><a href="index.html" > Startseite</a></li><li class="item-133"><a href="bestattung.html" > Bestattung</a></li><li class="item-134  current active"><a href="ueberfuehrung.html" > Überführung</a></li><li class="item-135"><a href="friedhof.html" > Friedhof</a></li><li class="item-136"><a href="andere-leistungen.html" > Andere Leistungen</a></li><li class="item-137"><a href="kontakt.html" > Kontakt/ Impressum</a></li></ul>
 </div></div>
 							</div>
 		</div>
@@ -334,12 +327,12 @@ jQuery(document).ready(function($) {
 				
 				<div  class="cc-buttons">
 					
-							<a role="button" href="index.html#" onclick="return false;"  class="btn cb-enable">
+							<a role="button" href="ueberfuehrung.html#" onclick="return false;"  class="btn cb-enable">
 
 			Ich stimme zu.			
 </a>
 
-							<a role="button" href="index.html#" onclick="return false;"  class="btn cb-disable">
+							<a role="button" href="ueberfuehrung.html#" onclick="return false;"  class="btn cb-disable">
 
 			Ich lehne ab			
 </a>
@@ -349,7 +342,7 @@ jQuery(document).ready(function($) {
 			Datenschutz Richtlinien			
 </a>
 
-							<a role="button" href="index.html#" onclick="return false;"  class="btn cb-controls cc_popup_open">
+							<a role="button" href="ueberfuehrung.html#" onclick="return false;"  class="btn cb-controls cc_popup_open">
 				
 			<span>Datenschutz Einstellungen</span>
 			<b class="icon-cogs"></b>
@@ -363,7 +356,7 @@ jQuery(document).ready(function($) {
 
 
 <div id="cc_popup_cooco_modalwrap" class="cooco_popup_wrapper" >
-									<form id="cc_popup_form" class="cooco-form" action="index.html" method="POST">
+									<form id="cc_popup_form" class="cooco-form" action="ueberfuehrung.html" method="POST">
 												<div id="cc_popup" tabindex="-1" class="modal hide fade jviewport-width30" data-backdrop="true">
 	<div class="modal-header">
 			<button

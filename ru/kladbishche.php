@@ -6,14 +6,14 @@
 		<base href="" />
 	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 	<meta name="generator" content="Joomla! - Open Source Content Management" />
-	<title>Перевозка</title>
+	<title>Кладбищe</title>
 	<link href="../images/LOGO2.png" rel="shortcut icon" type="image/vnd.microsoft.icon" />
-	<link href="../templates/shaper_helix3/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
-	<link href="../templates/shaper_helix3/css/joomla-fontawesome.min.css" rel="stylesheet" type="text/css" />
-	<link href="../templates/shaper_helix3/css/font-awesome-v4-shims.min.css" rel="stylesheet" type="text/css" />
-	<link href="../templates/shaper_helix3/css/template.css" rel="stylesheet" type="text/css" />
-	<link href="../templates/shaper_helix3/css/presets/preset3.css" rel="stylesheet" class="preset" type="text/css" />
-	<link href="../templates/shaper_helix3/css/frontend-edit.css" rel="stylesheet" type="text/css" />
+	<link href="../../templates/shaper_helix3/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+	<link href="../../templates/shaper_helix3/css/joomla-fontawesome.min.css" rel="stylesheet" type="text/css" />
+	<link href="../../templates/shaper_helix3/css/font-awesome-v4-shims.min.css" rel="stylesheet" type="text/css" />
+	<link href="../../templates/shaper_helix3/css/template.css" rel="stylesheet" type="text/css" />
+	<link href="../../templates/shaper_helix3/css/presets/preset3.css" rel="stylesheet" class="preset" type="text/css" />
+	<link href="../../templates/shaper_helix3/css/frontend-edit.css" rel="stylesheet" type="text/css" />
 	<link href="https://polischuk-bestattungen.de/plugins/system/lab5_cookie_commander/cookie_commander/assets/jquery.cookiebar.css" rel="stylesheet" type="text/css" />
 	<link href="../media/jui/css/bootstrap-tooltip-extended.css@9bedf092946dd5dad411441e62a9e7c0.css" rel="stylesheet" type="text/css" />
 	<link href="../media/mod_languages/css/template.css@9bedf092946dd5dad411441e62a9e7c0.css" rel="stylesheet" type="text/css" />
@@ -69,10 +69,10 @@ max-width: 1140px;
 	<script src="../media/jui/js/jquery-noconflict.js@9bedf092946dd5dad411441e62a9e7c0" type="text/javascript"></script>
 	<script src="../media/jui/js/jquery-migrate.min.js@9bedf092946dd5dad411441e62a9e7c0" type="text/javascript"></script>
 	<script src="https://polischuk-bestattungen.de/plugins/system/helix3/assets/js/bootstrap.legacy.js" type="text/javascript"></script>
-	<script src="../templates/shaper_helix3/js/bootstrap.min.js" type="text/javascript"></script>
-	<script src="../templates/shaper_helix3/js/jquery.sticky.js" type="text/javascript"></script>
-	<script src="../templates/shaper_helix3/js/main.js" type="text/javascript"></script>
-	<script src="../templates/shaper_helix3/js/frontend-edit.js" type="text/javascript"></script>
+	<script src="../../templates/shaper_helix3/js/bootstrap.min.js" type="text/javascript"></script>
+	<script src="../../templates/shaper_helix3/js/jquery.sticky.js" type="text/javascript"></script>
+	<script src="../../templates/shaper_helix3/js/main.js" type="text/javascript"></script>
+	<script src="../../templates/shaper_helix3/js/frontend-edit.js" type="text/javascript"></script>
 	<script src="https://polischuk-bestattungen.de/plugins/system/lab5_cookie_commander/cookie_commander/assets/jquery.cookiebar.js" type="text/javascript"></script>
 	<script src="../media/jui/js/bootstrap-tooltip-extended.min.js@9bedf092946dd5dad411441e62a9e7c0" type="text/javascript"></script>
 	<script src="../media/jui/js/chosen.jquery.min.js@9bedf092946dd5dad411441e62a9e7c0" type="text/javascript"></script>
@@ -190,10 +190,10 @@ jQuery(document).ready(function($) {
 	});
 	
 	</script>
-	<meta property="og:url" content="https://polischuk-bestattungen.de/ru/perevozka.html" />
+	<meta property="og:url" content="https://polischuk-bestattungen.de/ru/kladbishche.html" />
 	<meta property="og:type" content="article" />
-	<meta property="og:title" content="Перевозка" />
-	<meta property="og:description" content="Перевозка Покойного за границу МЫ, Похоронное Бюро Полищук, очень бережно и максимально быстро перевезем Усопшего за границу, в любую точку земного шара. Т..." />
+	<meta property="og:title" content="Кладбище" />
+	<meta property="og:description" content="Уход за Могилой Уход за могилой – это посадка свежих цветов, травы и т.д, удаление сорняков, возложение цветов к определенным датам, подготовка могилы к зи..." />
 		<!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=AW-16458617391">
 </script>
@@ -206,14 +206,12 @@ jQuery(document).ready(function($) {
 </script>
 	</head>
 	
-	<body class="site com-content view-article no-layout no-task itemid-128 ru-ru ltr  sticky-header layout-boxed off-canvas-menu-init">
+	<body class="site com-content view-article no-layout no-task itemid-129 ru-ru ltr  sticky-header layout-boxed off-canvas-menu-init">
 	
 		<div class="body-wrapper">
 			<div class="body-innerwrapper">
-				<header id="sp-header"><div class="container"><div class="row"><div id="sp-logo" class="col-5 col-md-5 col-lg-3 "><div class="sp-column "><div class="logo"><a href="../index.html"><img class="sp-default-logo d-none d-lg-block" src="../images/LOGO.png" srcset="" alt="bestattungen"><!-- telefone here --></a></div></div></div><div id="sp-menu" class="col-6 col-md-5 col-lg-9 "><div class="sp-column ">			<div class='sp-megamenu-wrapper'>
-				<a id="offcanvas-toggler" class="d-block d-lg-none" aria-label="Helix3 Megamenu Options" href="perevozka.html#"><i class="fa fa-bars" aria-hidden="true" title="Helix3 Megamenu Options"></i></a>
-				<ul class="sp-megamenu-parent menu-fade d-none d-lg-block"><li class="sp-menu-item"><a  href="../index.html"  >Главная</a></li><li class="sp-menu-item"><a  href="pokhorony.html"  >Похороны</a></li><li class="sp-menu-item current-item active"><a  href="perevozka.html"  >Перевозка</a></li><li class="sp-menu-item"><a  href="kladbishche.html"  >Кладбищe</a></li><li class="sp-menu-item"><a  href="drugoe.html"  >Другое</a></li><li class="sp-menu-item"><a  href="kontakty.html"  >Контакты</a></li></ul>			</div>
-		</div></div></div></div></header><section id="sp-page-title"><div class="container"><div class="row"><div id="sp-title" class="col-lg-12 d-none d-md-block"><div class="sp-column "><div class="sp-module "><div class="sp-module-content">
+			<?php include('menu.php'); ?>	
+			<section id="sp-page-title"><div class="container"><div class="row"><div id="sp-title" class="col-lg-12 d-none d-md-block"><div class="sp-column "><div class="sp-module "><div class="sp-module-content">
 <div class="flexslider">
   <ul class="slides">
   	<li><img src='../images/perevozka.png' alt=''></li>  </ul>
@@ -225,16 +223,9 @@ jQuery(document).ready(function($) {
         animation: "fade",     	  directionNav: false,     	  controlNav:false,     	  keyboardNav:false,         direction: "horizontal",        slideshowSpeed:9000,       animationSpeed:1000,        randomize: false     });
   });
 </script>
-</div></div></div></div></div></div></section><section id="sp-top-bar"><div class="container"><div class="row"><div id="sp-top2" class="col-lg-9 d-none d-md-block"><div class="sp-column "><ul class="sp-contact-info"><li class="sp-contact-phone"><i class="fa fa-phone" aria-hidden="true"></i> <a href="tel:03091900781">030 919 00 781</a></li><li class="sp-contact-mobile"><i class="fa fa-mobile" aria-hidden="true"></i> <a href="tel:017663155400">0176 631 55 400</a></li><li class="sp-contact-email"><i class="fa fa-envelope" aria-hidden="true"></i> <a href="mailto:info@polischuk-bestattungen.de">info@polischuk-bestattungen.de</a></li></ul><ul class="social-icons"><li><a target="_blank" href="perevozka.html#" aria-label="facebook"><i class="fa fa-facebook"></i></a></li><li><a target="_blank" href="perevozka.html#" aria-label="twitter"><i class="fa fa-twitter"></i></a></li><li><a target="_blank" href="perevozka.html#" aria-label="linkedin"><i class="fa fa-linkedin"></i></a></li><li><a target="_blank" href="perevozka.html#" aria-label="flickr"><i class="fa fa-flickr"></i></a></li><li><a href="skype:#?chat" aria-label="skype"><i class="fa fa-skype"></i></a></li></ul></div></div><div id="sp-top1" class="col-lg-3 d-none d-md-block"><div class="sp-column "><div class="sp-module "><div class="sp-module-content"><div class="mod-languages">
+</div></div></div></div></div></div></section><section id="sp-top-bar"><div class="container"><div class="row"><div id="sp-top2" class="col-lg-9 d-none d-md-block"><div class="sp-column "><ul class="sp-contact-info"><li class="sp-contact-phone"><i class="fa fa-phone" aria-hidden="true"></i> <a href="tel:03091900781">030 919 00 781</a></li><li class="sp-contact-mobile"><i class="fa fa-mobile" aria-hidden="true"></i> <a href="tel:017663155400">0176 631 55 400</a></li><li class="sp-contact-email"><i class="fa fa-envelope" aria-hidden="true"></i> <a href="mailto:info@polischuk-bestattungen.de">info@polischuk-bestattungen.de</a></li></ul><ul class="social-icons"><li><a target="_blank" href="kladbishche.html#" aria-label="facebook"><i class="fa fa-facebook"></i></a></li><li><a target="_blank" href="kladbishche.html#" aria-label="twitter"><i class="fa fa-twitter"></i></a></li><li><a target="_blank" href="kladbishche.html#" aria-label="linkedin"><i class="fa fa-linkedin"></i></a></li><li><a target="_blank" href="kladbishche.html#" aria-label="flickr"><i class="fa fa-flickr"></i></a></li><li><a href="skype:#?chat" aria-label="skype"><i class="fa fa-skype"></i></a></li></ul></div></div><div id="sp-top1" class="col-lg-3 d-none d-md-block"><div class="sp-column "><div class="sp-module "><div class="sp-module-content"><div class="mod-languages">
 
-	<form name="lang" method="post" action="perevozka.html">
-		<select class="inputbox advancedSelect" onchange="document.location.replace(this.value);" >
-			<option dir="ltr" value="https://pilyav4ik.github.io/polischuk/" selected="selected">
-		Russian</option>
-			<option dir="ltr" value="https://pilyav4ik.github.io/polischuk/de" >
-		German</option>
-		</select>
-	</form>
+<?php include("lang.php") ?>
 
 </div>
 </div></div></div></div></div></div></section><section id="sp-main"><div class="container"><div class="row"><div id="sp-component" class="col-lg-12 "><div class="sp-column "><div id="system-message-container">
@@ -255,9 +246,34 @@ jQuery(document).ready(function($) {
 				
 	
 			<div itemprop="articleBody">
-		<div><span style="font-size: 12pt; color: #006652;"><span style="text-decoration: underline;">Перевозка Покойного за границу</span><img src="../images/perevozka.jpg" alt="perevozka" width="300" height="200" style="margin-right: 15px; margin-bottom: 10px; margin-left: 10px; float: right;" /><br style="clear: left;" /></span></div>
-<div><span style="color: #000000; font-size: 12pt;">МЫ, Похоронное Бюро Полищук, очень бережно и максимально быстро перевезем Усопшего за границу, в любую точку земного шара. Также организуем перевозку покойного в Германию из-за границы, если например, смерть наступила в отпуске и.т.д. Оформим все необходимые документы в самые кратчайшие сроки в Консульствах, Посольствах, Больничных кассах и т. д. Благодаря нашему опыту и квалификации мы действуем оперативно, профессионально и всегда идем Вам навстречу даже в нестандартных ситуациях. В некоторых случаях, при острой необходимости, поможем организовать перевозку Вашего близкого человека за границу в течении 1-2 дней после наступления смерти. Быть Вам полезными, сделать все возможное, чтобы Ваш близкий человек был достойно похоронен - дело нашей чести! Мы всегда выслушаем Вас и сделаем максимально все от нас возможное, чтобы помочь Вам проводить Вашего близкого человека в последний Путь.</span></div>
-<div><span style="font-size: 12pt;"><span style="color: #000000;"></span><span style="color: #000000;">Позвоните нам и мы начнем действовать!</span></span></div>	</div>
+		<div><span style="text-decoration: underline; color: #006652;"><span style="font-size: 12pt;">Уход за Могилой<img src="https://polischuk-bestattungen.de/images/uhod_za_mogila-Friedhof_bestattungen.jpg" alt="uhod za mogila Friedhof bestattungen" width="300" height="201" style="margin-right: 0px; margin-bottom: 10px; margin-left: 15px; float: right;" /><br style="clear: left;" /></span></span></div>
+<div><span style="font-size: 12pt; font-family: arial,helvetica,sans-serif;">Уход за могилой – это посадка свежих цветов, травы и т.д, удаление сорняков, возложение цветов к определенным датам, подготовка могилы к зиме и многое другое. Бывают в жизни ситуации, когда у людей нет возможности ухаживать за могилами близких им людей. На это могут быть самые разные причины: от физического недомогания до большого расстояния от</span></div>
+<div><span style="font-size: 12pt; font-family: arial,helvetica,sans-serif;">местоположения могилы. Поэтому позвольте представить Вам нашу услугу “Уход за могилами". В нашем офисе, Вы сможете получить подробную консультацию и даже заключить с нами договор о выполнении конкретных работ в конкретное время, изложив нам все Ваши индивидуальные пожелания. Мы внимательно изучим Ваши потребности и отнесемся к выполнению доверенной нам работе с полной ответственностью. По вашему желанию, мы можем в заранее оговоренные даты, регулярно высылать Вам Фотографии, на которых будет четко видно, состояние могилы &nbsp;до нашей работы и как она выглядит после нее. По вопросам приобретения услуги «Уход за могилой» обращайтесь за консультацией в наш офис:&nbsp;<span style="text-decoration: underline; color: #006652;"><span style="text-decoration: underline;">Silbersteinstraße 22, 12051 Berlin</span></span><span style="color: #006652;"> </span><span style="color: #006652;">&nbsp;&nbsp;<span style="color: #333333;"><span style="font-family: arial, helvetica, sans-serif; font-size: 16px; line-height: 15.808px;">или по телефону:</span><span style="font-family: arial, helvetica, sans-serif; font-size: 16px; line-height: 15.808px;"></span></span></span></span></div>
+<div><span style="font-size: 12pt; font-family: arial,helvetica,sans-serif;"><span style="color: #2bb673;"><span style="color: #006652;">+49(0)30 919 00 781 &nbsp; &nbsp;+49 (0)176 631 55 400&nbsp;</span></span></span><span style="font-size: 12pt;">а также пишите нам на </span></div>
+<div><span style="font-size: 12pt;">Емаил: <span style="color: #006652;"><span id="cloakaca294cc3c328566de19191f2e55394c">Этот адрес электронной почты защищен от спам-ботов. Для просмотра адреса в вашем браузере должен быть включен Javascript.</span><script type='text/javascript'>
+				document.getElementById('cloakaca294cc3c328566de19191f2e55394c').innerHTML = '';
+				var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+				var path = 'hr' + 'ef' + '=';
+				var addyaca294cc3c328566de19191f2e55394c = '&#105;nf&#111;' + '&#64;';
+				addyaca294cc3c328566de19191f2e55394c = addyaca294cc3c328566de19191f2e55394c + 'p&#111;l&#105;sch&#117;k-b&#101;st&#97;tt&#117;ng&#101;n' + '&#46;' + 'd&#101;';
+				var addy_textaca294cc3c328566de19191f2e55394c = '&#105;nf&#111;' + '&#64;' + 'p&#111;l&#105;sch&#117;k-b&#101;st&#97;tt&#117;ng&#101;n' + '&#46;' + 'd&#101;';document.getElementById('cloakaca294cc3c328566de19191f2e55394c').innerHTML += '<a ' + path + '\'' + prefix + ':' + addyaca294cc3c328566de19191f2e55394c + '\' style="color: #006652;">'+addy_textaca294cc3c328566de19191f2e55394c+'<\/a>';
+		</script></span></span></div>
+<div>&nbsp;</div>
+<div><img src="../images/pametniki.jpg" alt="pametniki" width="300" height="259" style="margin-right: 15px; margin-bottom: 10px; margin-left: 0px; float: left;" /><span style="color: #006652; font-size: 12pt;"><span style="text-decoration: underline;">Памятники&nbsp;</span> </span></div>
+<div><span style="font-size: 12pt;">Мы поможем Вам заказать надгробный памятник или надгробную плиту исходя из Ваших индивидуальных пожеланий и возможностей. Мы сотрудничаем со многими фирмами по изготовлению надгробных плит и памятников и выберем тот вариант, который устроит именно Вас. По вопросам изготовления надгробной плиты или памятника обращайтесь за консультацией в наш офис:&nbsp;</span></div>
+<div><span style="font-size: 12pt;"><span style="color: #008080;"><span style="text-decoration: underline;"><span style="color: #006652; text-decoration: underline;">Silbersteinstraße 22, 12051 Berlin</span>&nbsp;&nbsp;</span></span><span style="color: #000000;"><span style="color: #333333;">или по&nbsp;телефону</span>:</span>&nbsp;</span><span style="font-size: 12pt;"><span style="color: #006652;">+49 (0)30 919 00 781 &nbsp;</span></span><span style="font-size: 12pt;"><span style="color: #006652;">+49(0)176 631 55 400</span><span style="color: #000000;">&nbsp; или на&nbsp;</span></span><span style="font-size: 12pt;"><span style="color: #000000;">Емаил:&nbsp;<span style="color: #006652;"><span id="cloak6098068951d7f34dc6416b1d34d73629">Этот адрес электронной почты защищен от спам-ботов. Для просмотра адреса в вашем браузере должен быть включен Javascript.</span><script type='text/javascript'>
+				document.getElementById('cloak6098068951d7f34dc6416b1d34d73629').innerHTML = '';
+				var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+				var path = 'hr' + 'ef' + '=';
+				var addy6098068951d7f34dc6416b1d34d73629 = '&#105;nf&#111;' + '&#64;';
+				addy6098068951d7f34dc6416b1d34d73629 = addy6098068951d7f34dc6416b1d34d73629 + 'p&#111;l&#105;sch&#117;k-b&#101;st&#97;tt&#117;ng&#101;n' + '&#46;' + 'd&#101;';
+				var addy_text6098068951d7f34dc6416b1d34d73629 = '&#105;nf&#111;' + '&#64;' + 'p&#111;l&#105;sch&#117;k-b&#101;st&#97;tt&#117;ng&#101;n' + '&#46;' + 'd&#101;';document.getElementById('cloak6098068951d7f34dc6416b1d34d73629').innerHTML += '<a ' + path + '\'' + prefix + ':' + addy6098068951d7f34dc6416b1d34d73629 + '\' style="color: #006652;">'+addy_text6098068951d7f34dc6416b1d34d73629+'<\/a>';
+		</script></span></span></span><span style="font-size: 12pt;"></span></div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div><span style="text-decoration: underline; color: #006652; font-family: arial,helvetica,sans-serif; font-size: 12pt;">Похоронные принадлежности</span></div>
+<div style="margin: 0px 0px 10px; color: #333333; font-family: 'Open Sans', sans-serif; font-size: 14px;"><span style="text-decoration: underline; color: #006652; font-family: arial,helvetica,sans-serif; font-size: 12pt;"><img src="https://polischuk-bestattungen.de/images/Zubeh%C3%83%C2%B6r_f%C3%83%C2%BCr_Beisetzungen_pohornie_prinadlejnosti.jpg" alt="Zubehör für Beisetzungen pohornie prinadlejnosti" width="300" height="200" style="margin-right: 0px; margin-bottom: 10px; margin-left: 15px; float: right;" /></span><span style="font-size: 12pt; font-family: arial,helvetica,sans-serif; color: #000000;">Похоронное Бюро Полищук предлагает большое разнообразие похоронных принадлежностей в различной ценовой палитре. Гробы - драпированные и из натурального дерева, урны для праха, покрывала, ленты, свечи, цветы, венки и другие похоронные принадлежности. Все это можно заказать в нашем Бюро. Обращайтесь к нам и мы в свою очередь приложим максимум усилий, чтобы похороны Вашего близкого человека прошли достойно а у Вас осталось светлое чувство выполненного долга перед усопшим.</span></div>
+<p>&nbsp;</p>	</div>
 
 	
 	
@@ -306,10 +322,10 @@ jQuery(document).ready(function($) {
 		
 		<!-- Off Canvas Menu -->
 		<div class="offcanvas-menu">
-			<a href="perevozka.html#" class="close-offcanvas" aria-label="Close"><i class="fa fa-remove" aria-hidden="true" title="Close"></i></a>
+			<a href="kladbishche.html#" class="close-offcanvas" aria-label="Close"><i class="fa fa-remove" aria-hidden="true" title="Close"></i></a>
 			<div class="offcanvas-inner">
 									<div class="sp-module "><div class="sp-module-content"><ul class="nav menu">
-<li class="item-126"><a href="../index.html" > Главная</a></li><li class="item-127"><a href="pokhorony.html" > Похороны</a></li><li class="item-128  current active"><a href="perevozka.html" > Перевозка</a></li><li class="item-129"><a href="kladbishche.html" > Кладбищe</a></li><li class="item-130"><a href="drugoe.html" > Другое</a></li><li class="item-141"><a href="kontakty.html" > Контакты</a></li></ul>
+<li class="item-126"><a href="../index.html" > Главная</a></li><li class="item-127"><a href="pokhorony.html" > Похороны</a></li><li class="item-128"><a href="perevozka.html" > Перевозка</a></li><li class="item-129  current active"><a href="kladbishche.html" > Кладбищe</a></li><li class="item-130"><a href="drugoe.html" > Другое</a></li><li class="item-141"><a href="kontakty.html" > Контакты</a></li></ul>
 </div></div>
 							</div>
 		</div>
@@ -331,12 +347,12 @@ jQuery(document).ready(function($) {
 				
 				<div  class="cc-buttons">
 					
-							<a role="button" href="perevozka.html#" onclick="return false;"  class="btn cb-enable">
+							<a role="button" href="kladbishche.html#" onclick="return false;"  class="btn cb-enable">
 
 			I understand and <b>accept</b>			
 </a>
 
-							<a role="button" href="perevozka.html#" onclick="return false;"  class="btn cb-disable">
+							<a role="button" href="kladbishche.html#" onclick="return false;"  class="btn cb-disable">
 
 			No, I Decline			
 </a>
@@ -346,7 +362,7 @@ jQuery(document).ready(function($) {
 			Privacy Policy			
 </a>
 
-							<a role="button" href="perevozka.html#" onclick="return false;"  class="btn cb-controls cc_popup_open">
+							<a role="button" href="kladbishche.html#" onclick="return false;"  class="btn cb-controls cc_popup_open">
 				
 			<span>Cookie Controls</span>
 			<b class="icon-cogs"></b>
@@ -360,7 +376,7 @@ jQuery(document).ready(function($) {
 
 
 <div id="cc_popup_cooco_modalwrap" class="cooco_popup_wrapper" >
-									<form id="cc_popup_form" class="cooco-form" action="perevozka.html" method="POST">
+									<form id="cc_popup_form" class="cooco-form" action="kladbishche.html" method="POST">
 												<div id="cc_popup" tabindex="-1" class="modal hide fade jviewport-width30" data-backdrop="true">
 	<div class="modal-header">
 			<button
